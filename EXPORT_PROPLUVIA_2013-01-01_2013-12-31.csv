@@ -1,0 +1,697 @@
+Code ZA,Libellé ZA,NIVEAU,Date d?entrée,Date de sortie,Durée,Surface,AC Concerné,Numéro AR,Région,Bassin,Département,Type de zone (souterraine ou superficielle)
+11_77_002,Bassin du Réveillon,Alerte renforcée,18/09/2013,27/09/2013,9,68.55,NA,AP2013/DDT/SEPR357,Île-de-France,SEINE-NORMANDIE,Seine-et-Marne,Superficielle
+11_77_01,Nappe de Champigny Ouest partie Seine et Marne,Alerte renforcée,27/11/2012,07/02/2013,72,1734.41,NA,2012/DDT/SEPR/673,Île-de-France,SEINE-NORMANDIE,Seine-et-Marne,Souterraine
+11_77_01,Nappe de Champigny Ouest partie Seine et Marne,Vigilance,08/02/2013,10/04/2013,60,1734.41,NA,2013/DDT/SEPR/030,Île-de-France,SEINE-NORMANDIE,Seine-et-Marne,Souterraine
+11_77_02,Nappe de Champigny Est,Alerte,08/02/2013,10/04/2013,60,517.58,NA,2013/DDT/SEPR/030,Île-de-France,SEINE-NORMANDIE,Seine-et-Marne,Souterraine
+11_77_02,Nappe de Champigny Est,Crise,27/11/2012,07/02/2013,72,517.58,NA,2012/DDT/SEPR/673,Île-de-France,SEINE-NORMANDIE,Seine-et-Marne,Souterraine
+11_91_01,Nappe Champigny Ouest,Alerte renforcée,25/05/2012,21/02/2013,272,116.01,NA,2012-DDT-SE-234,Île-de-France,SEINE-NORMANDIE,Essonne,Souterraine
+11_91_03,Bassin versant de l'Orge et des ses affluents,Alerte,08/08/2013,21/08/2013,13,488.51,NA,2013-DDT-SE-306,Île-de-France,SEINE-NORMANDIE,Essonne,Superficielle
+11_91_03,Bassin versant de l'Orge et des ses affluents,Alerte renforcée,22/08/2013,02/10/2013,41,488.51,NA,2013-DDT-SE-315,Île-de-France,SEINE-NORMANDIE,Essonne,Superficielle
+22_60_11,bassin de la Nonette et de la Thève,Alerte renforcée,22/08/2013,13/10/2013,52,499.87,NA,2013-60-001,Hauts-de-France,SEINE-NORMANDIE,Oise,Superficielle
+22_60_2,bassin de l'Automne,Alerte,22/08/2013,13/10/2013,52,231.69,NA,2013-60-001,Hauts-de-France,SEINE-NORMANDIE,Oise,Superficielle
+23_27_002,bassin de l'Avre amont,Alerte renforcée,09/08/2013,26/11/2013,109,108.79,NA,DDTL/SEBF/13-156,Normandie,SEINE-NORMANDIE,Eure,Superficielle
+23_27_003,bassin de l'Avre aval,Vigilance,08/08/2013,26/11/2013,110,192.09,NA,DDTM/SEBF/13-158,Normandie,SEINE-NORMANDIE,Eure,Superficielle
+23_27_004,bassin de l'Avre moyen,Alerte,08/08/2013,26/11/2013,110,65.9,NA,DDTL/SEBF/13-157,Normandie,SEINE-NORMANDIE,Eure,Superficielle
+23_27_005,bassin de l'Epte à la Seine amont rive doite,Vigilance,08/08/2013,23/09/2013,46,773.12,NA,DDTM/SEBF/13-164,Normandie,SEINE-NORMANDIE,Eure,Superficielle
+23_27_006,bassin de l'Iton aval,Alerte,08/08/2013,29/09/2013,52,537.11,NA,DDTM/SEBF/13-162,Normandie,SEINE-NORMANDIE,Eure,Superficielle
+23_27_006,bassin de l'Iton aval,Vigilance,30/09/2013,26/11/2013,57,537.11,NA,DDTM/SEBF/13-187,Normandie,SEINE-NORMANDIE,Eure,Superficielle
+23_27_008,bassin de la Calonne,Vigilance,08/08/2013,26/11/2013,110,134.56,NA,DDTM/SEBF/13-163,Normandie,SEINE-NORMANDIE,Eure,Superficielle
+23_27_012,bassin de l'Iton amont,Vigilance,08/08/2013,26/11/2013,110,546.51,NA,DDTM/SEBF/13-161,Normandie,SEINE-NORMANDIE,Eure,Superficielle
+23_27_013,bassin de l'Eure moyenne à la Seine amont rive gauche,Alerte,30/09/2013,26/11/2013,57,798.43,NA,DDTM/SEBF/13-198,Normandie,SEINE-NORMANDIE,Eure,Superficielle
+23_27_013,bassin de l'Eure moyenne à la Seine amont rive gauche,Alerte renforcée,08/08/2013,29/09/2013,52,798.43,NA,DDTM/SEBF/13-159,Normandie,SEINE-NORMANDIE,Eure,Superficielle
+23_27_014,bassin de l'Eure aval,Alerte,08/08/2013,29/09/2013,52,203.03,NA,DDTM/SEBF/13-160,Normandie,SEINE-NORMANDIE,Eure,Superficielle
+23_27_014,bassin de l'Eure aval,Vigilance,30/09/2013,26/11/2013,57,203.03,NA,DDTM/SEBF/13-197,Normandie,SEINE-NORMANDIE,Eure,Superficielle
+24_18_0002,bassin du Cher,Alerte,06/09/2013,31/10/2013,55,1084.81,NA,2013-3-0064,Centre-Val de Loire,LOIRE-BRETAGNE,Cher,Superficielle
+24_18_0003,bassin de l'Indre,Alerte,27/08/2013,05/09/2013,9,27.12,NA,2013-3-0059,Centre-Val de Loire,LOIRE-BRETAGNE,Cher,Superficielle
+24_18_0003,bassin de l'Indre,Alerte renforcée,06/09/2013,31/10/2013,55,27.12,NA,2013-3-0064,Centre-Val de Loire,LOIRE-BRETAGNE,Cher,Superficielle
+24_18_0005,bassin de l'Auron,Alerte,06/09/2013,31/10/2013,55,682.68,NA,2013-3-0064,Centre-Val de Loire,LOIRE-BRETAGNE,Cher,Superficielle
+24_18_0007,bassin de la Petite Sauldre et de la Rère,Alerte,27/08/2013,05/09/2013,9,616.89,NA,2013-3-0059,Centre-Val de Loire,LOIRE-BRETAGNE,Cher,Superficielle
+24_18_0007,bassin de la Petite Sauldre et de la Rère,Alerte,06/09/2013,31/10/2013,55,616.89,NA,2013-3-0064,Centre-Val de Loire,LOIRE-BRETAGNE,Cher,Superficielle
+24_18_0012,bassin de l'Arnon Amont,Alerte,27/08/2013,05/09/2013,9,898.66,NA,2013-3-0059,Centre-Val de Loire,LOIRE-BRETAGNE,Cher,Superficielle
+24_18_0012,bassin de l'Arnon Amont,Alerte renforcée,06/09/2013,31/10/2013,55,898.66,NA,2013-3-0064,Centre-Val de Loire,LOIRE-BRETAGNE,Cher,Superficielle
+24_28_10,L'Eure de l'entrée du département (Manou) à St-Luperce inclus,Alerte,24/07/2013,07/08/2013,14,294.61,NA,2013205-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_10,L'Eure de l'entrée du département (Manou) à St-Luperce inclus,Alerte,20/08/2013,15/10/2013,56,294.61,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_11,L'Eure de l'aval de St-Luperce à Jouy inclus,Vigilance,20/08/2013,15/10/2013,56,375.86,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_12,L'Eure de l'aval de Jouy à Abondant inclus,Vigilance,20/08/2013,15/10/2013,56,347.68,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_13,La foussarde,Alerte,24/07/2013,07/08/2013,14,114.97,NA,2013205-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_13,La foussarde,Alerte,08/08/2013,19/08/2013,11,114.97,NA,2013220-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_13,La foussarde,Crise,20/08/2013,15/10/2013,56,114.97,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_14,L'Huisne,Vigilance,20/08/2013,15/10/2013,56,31.81,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_15,La Rhône,Vigilance,20/08/2013,15/10/2013,56,100.11,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_16,Le Loir de la source à Saumeray inclus,Alerte,08/08/2013,19/08/2013,11,191.73,NA,2013220-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_16,Le Loir de la source à Saumeray inclus,Alerte renforcée,24/07/2013,07/08/2013,14,191.73,NA,2013205-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_16,Le Loir de la source à Saumeray inclus,Alerte renforcée,20/08/2013,15/10/2013,56,191.73,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_17,Le Loir de l'aval de Saumeray à St Maur sur le Loir inclus,Alerte renforcée,20/08/2013,15/10/2013,56,517.65,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_18,Le Loir de St Maur sur le Loir à la limite de département (Cloyes-sur-le-Loir),Vigilance,20/08/2013,15/10/2013,56,179.82,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_19,L'Ozanne de la source jusqu'à Brou inclus,Alerte,08/08/2013,19/08/2013,11,178.38,NA,2013220-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_19,L'Ozanne de la source jusqu'à Brou inclus,Crise,24/07/2013,07/08/2013,14,178.38,NA,2013205-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_19,L'Ozanne de la source jusqu'à Brou inclus,Crise,20/08/2013,15/10/2013,56,178.38,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_2,l'Aigre,Vigilance,20/08/2013,15/10/2013,56,138.21,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_20,L'Ozanne de l'aval de Brou jusqu'au Loir,Vigilance,20/08/2013,15/10/2013,56,100.05,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_21,Le ruisseau de la Loupe,Crise,24/07/2013,07/08/2013,14,64.8,NA,2013205-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_21,Le ruisseau de la Loupe,Crise,08/08/2013,19/08/2013,11,64.8,NA,2013220-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_21,Le ruisseau de la Loupe,Crise,20/08/2013,15/10/2013,56,64.8,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_22,La Roguenette,Alerte,08/08/2013,19/08/2013,11,77.35,NA,2013220-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_22,La Roguenette,Alerte,20/08/2013,15/10/2013,56,77.35,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_23,La Thironne,Alerte,20/08/2013,15/10/2013,56,76.74,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_24,Le ruisseau de Vacheresse,Alerte renforcée,24/07/2013,07/08/2013,14,149.77,NA,2013205-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_24,Le ruisseau de Vacheresse,Alerte renforcée,08/08/2013,19/08/2013,11,149.77,NA,2013220-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_24,Le ruisseau de Vacheresse,Alerte renforcée,20/08/2013,15/10/2013,56,149.77,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_25,La Vesgre,Alerte,24/07/2013,07/08/2013,14,155.14,NA,2013205-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_25,La Vesgre,Crise,08/08/2013,19/08/2013,11,155.14,NA,2013220-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_25,La Vesgre,Crise,20/08/2013,15/10/2013,56,155.14,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_26,La Vinette,Alerte,24/07/2013,07/08/2013,14,13.46,NA,2013205-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_26,La Vinette,Alerte,08/08/2013,19/08/2013,11,13.46,NA,2013220-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_26,La Vinette,Alerte,20/08/2013,15/10/2013,56,13.46,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_27,La Voise de l'aval de Oinville sous Auneau jusqu'à l'Eure,Crise,24/07/2013,07/08/2013,14,128.18,NA,2013205-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_27,La Voise de l'aval de Oinville sous Auneau jusqu'à l'Eure,Crise,08/08/2013,19/08/2013,11,128.18,NA,2013220-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_27,La Voise de l'aval de Oinville sous Auneau jusqu'à l'Eure,Crise,20/08/2013,15/10/2013,56,128.18,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_28,La Voise de la source jusqu'à Oinville sous Auneau inclus,Crise,24/07/2013,07/08/2013,14,229.07,NA,2013205-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_28,La Voise de la source jusqu'à Oinville sous Auneau inclus,Crise,08/08/2013,19/08/2013,11,229.07,NA,2013220-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_28,La Voise de la source jusqu'à Oinville sous Auneau inclus,Crise,20/08/2013,15/10/2013,56,229.07,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_29,L'Yerre de la source jusqu'à Arrou inclus,Alerte renforcée,24/07/2013,07/08/2013,14,101.01,NA,2013205-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_29,L'Yerre de la source jusqu'à Arrou inclus,Crise,20/08/2013,15/10/2013,56,101.01,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_3,L'Avre de la source jusqu'à Bérou la Mulotière inclus,Alerte,08/08/2013,19/08/2013,11,147.28,NA,2013220-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_3,L'Avre de la source jusqu'à Bérou la Mulotière inclus,Alerte,20/08/2013,15/10/2013,56,147.28,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_30,L'Yerre de l'aval d'Arrou jusqu'au Loir,Alerte,20/08/2013,15/10/2013,56,152.31,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_31,L'Eure de l'aval d'Abondant à la sortie du département (Guainville),Alerte renforcée,08/08/2013,19/08/2013,11,59.47,NA,2013220-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_31,L'Eure de l'aval d'Abondant à la sortie du département (Guainville),Alerte renforcée,20/08/2013,15/10/2013,56,59.47,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_4,L'Avre de Dampierre sur Avre inclus jusqu'à l'Eure,Vigilance,20/08/2013,15/10/2013,56,302.92,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_5,La Blaise,Vigilance,20/08/2013,15/10/2013,56,487.65,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_6,La Cloche,Alerte,24/07/2013,07/08/2013,14,96.22,NA,2013205-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_6,La Cloche,Alerte,08/08/2013,19/08/2013,11,96.22,NA,2013220-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_6,La Cloche,Alerte,20/08/2013,15/10/2013,56,96.22,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_7,La Conie,Vigilance,20/08/2013,15/10/2013,56,951.69,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_8,La Drouette,Alerte,24/07/2013,07/08/2013,14,44.21,NA,2013205-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_8,La Drouette,Alerte,08/08/2013,19/08/2013,11,44.21,NA,2013220-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_8,La Drouette,Crise,20/08/2013,15/10/2013,56,44.21,NA,2013232-0001,Centre-Val de Loire,SEINE-NORMANDIE,Eure-et-Loir,Superficielle
+24_28_9,L'Egvonne,Crise,24/07/2013,07/08/2013,14,3.3,NA,2013205-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_9,L'Egvonne,Crise,08/08/2013,19/08/2013,11,3.3,NA,2013220-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_28_9,L'Egvonne,Crise,20/08/2013,15/10/2013,56,3.3,NA,2013232-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Eure-et-Loir,Superficielle
+24_36_0001,bassin de l'Anglin amont confuence allemette,Alerte renforcée,24/08/2013,30/08/2013,6,404.7,NA,2013234-0009,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_36_0001,bassin de l'Anglin amont confuence allemette,Crise,31/08/2013,27/09/2013,27,404.7,NA,2013240-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_36_0004,bassin de la Bouzanne,Alerte,24/08/2013,30/08/2013,6,525.58,NA,2013234-0009,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_36_0004,bassin de la Bouzanne,Alerte,31/08/2013,27/09/2013,27,525.58,NA,2013240-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_36_0008,bassin de l'Indre amont à châteauroux,Alerte,24/08/2013,30/08/2013,6,837.68,NA,2013234-0009,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_36_0008,bassin de l'Indre amont à châteauroux,Alerte renforcée,31/08/2013,27/09/2013,27,837.68,NA,2013240-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_36_0012,bassin de la Trégonce,Alerte renforcée,24/08/2013,30/08/2013,6,98.88,NA,2013234-0009,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_36_0012,bassin de la Trégonce,Alerte renforcée,31/08/2013,27/09/2013,27,98.88,NA,2013240-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_36_0013,bassin de la Ringoire,Alerte,03/08/2013,23/08/2013,20,96.71,NA,2013213-0009,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_36_0013,bassin de la Ringoire,Alerte renforcée,24/08/2013,30/08/2013,6,96.71,NA,2013234-0009,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_36_0013,bassin de la Ringoire,Crise,31/08/2013,27/09/2013,27,96.71,NA,2013240-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_36_0013,bassin de la Ringoire,Crise,28/09/2013,31/10/2013,33,96.71,NA,2013269-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_36_0014,bassin de l'Arnon,Alerte,24/08/2013,30/08/2013,6,185.74,NA,2013234-0009,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_36_0014,bassin de l'Arnon,Alerte renforcée,31/08/2013,27/09/2013,27,185.74,NA,2013240-0001,Centre-Val de Loire,LOIRE-BRETAGNE,Indre,Superficielle
+24_41_03,Bassin versant de la Brenne,Alerte,04/09/2013,10/09/2013,6,106.02,NA,2013246-0007,Centre-Val de Loire,LOIRE-BRETAGNE,Loir-et-Cher,Superficielle
+24_41_03,Bassin versant de la Brenne,Alerte,11/09/2013,17/09/2013,6,106.02,NA,2013254-0009,Centre-Val de Loire,LOIRE-BRETAGNE,Loir-et-Cher,Superficielle
+24_41_04,Bassin versant de la Cisse,Alerte,20/08/2013,27/08/2013,7,250.48,NA,2013232-0002,Centre-Val de Loire,LOIRE-BRETAGNE,Loir-et-Cher,Superficielle
+24_41_06,Bassins versants du Beuvron et de la Masse,Alerte,20/08/2013,27/08/2013,7,1695.49,NA,2013232-0002,Centre-Val de Loire,LOIRE-BRETAGNE,Loir-et-Cher,Superficielle
+24_41_06,Bassins versants du Beuvron et de la Masse,Alerte,28/08/2013,03/09/2013,6,1695.49,NA,2013239-0009,Centre-Val de Loire,LOIRE-BRETAGNE,Loir-et-Cher,Superficielle
+24_41_06,Bassins versants du Beuvron et de la Masse,Alerte renforcée,04/09/2013,10/09/2013,6,1695.49,NA,2013246-0007,Centre-Val de Loire,LOIRE-BRETAGNE,Loir-et-Cher,Superficielle
+24_41_06,Bassins versants du Beuvron et de la Masse,Crise,11/09/2013,17/09/2013,6,1695.49,NA,2013254-0009,Centre-Val de Loire,LOIRE-BRETAGNE,Loir-et-Cher,Superficielle
+24_45_000003,Secteur Montargois,Alerte,13/08/2013,31/10/2013,79,776.68,NA,45-2013-2,Centre-Val de Loire,SEINE-NORMANDIE,Loiret,Souterraine
+24_45_0009,Bassins de la Trézée et de l'Ousson,Alerte,31/07/2013,31/10/2013,92,137.08,NA,45-2013-1,Centre-Val de Loire,LOIRE-BRETAGNE,Loiret,Superficielle
+24_45_0010,Bassin du Bec de l'Able,Alerte,31/07/2013,31/10/2013,92,101.17,NA,45-2013-1,Centre-Val de Loire,LOIRE-BRETAGNE,Loiret,Superficielle
+24_45_0016,Bassin de l'Ardoux,Alerte,31/07/2013,31/10/2013,92,227.86,NA,45-2013-1,Centre-Val de Loire,LOIRE-BRETAGNE,Loiret,Superficielle
+24_45_0017,Bassin du Cosson,Crise,31/07/2013,31/10/2013,92,348.11,NA,45-2013-1,Centre-Val de Loire,LOIRE-BRETAGNE,Loiret,Superficielle
+24_45_0019,Bassin du  Ru du Ponchevron,Crise,31/07/2013,31/10/2013,92,41.22,NA,45-2013-1,Centre-Val de Loire,LOIRE-BRETAGNE,Loiret,Superficielle
+43_25_0007,bassin versant de l'Allan_dpt 25,Alerte,21/08/2013,18/09/2013,28,108.53,NA,201332330013,Bourgogne-Franche-Comté,RHONE-MEDITERRANEE-CORSE,Doubs,Superficielle
+43_90_0012,bassin versant de l'Allan_dpt 90,Alerte,20/08/2013,12/09/2013,23,611.15,NA,2013232-0001,Bourgogne-Franche-Comté,RHONE-MEDITERRANEE-CORSE,Territoire de Belfort,Superficielle
+43_90_01,zone non couverte par l'arrêté cadre,Alerte,20/08/2013,12/09/2013,23,611.15,NA,2013232-0001,Bourgogne-Franche-Comté,RHONE-MEDITERRANEE-CORSE,Territoire de Belfort,Souterraine
+52_44_01,bassin de la Vilaine,Alerte renforcée,19/07/2013,01/10/2013,74,2208.28,NA,2013/BPUP/072,Pays de la Loire,LOIRE-BRETAGNE,Loire-Atlantique,Superficielle
+52_44_6a,"bassin de la Logne, Boulogne, Ognon, Grand-lieu",Crise,19/07/2013,01/10/2013,74,478.23,NA,2013/BPUP/072,Pays de la Loire,LOIRE-BRETAGNE,Loire-Atlantique,Superficielle
+52_49_1,LE BRIONNEAU & SES AFFLUENTS,Alerte renforcée,23/07/2013,30/07/2013,7,108.68,NA,ppe-ddt-2013-01,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_1,LE BRIONNEAU & SES AFFLUENTS,Alerte renforcée,31/07/2013,06/08/2013,6,108.68,NA,ppe-ddt-2013-02,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_1,LE BRIONNEAU & SES AFFLUENTS,Alerte renforcée,18/09/2013,21/10/2013,33,108.68,NA,ppe-ddt-2013-08,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_1,LE BRIONNEAU & SES AFFLUENTS,Crise,07/08/2013,20/08/2013,13,108.68,NA,ppe-ddt-2013-03,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_1,LE BRIONNEAU & SES AFFLUENTS,Crise,21/08/2013,27/08/2013,6,108.68,NA,ppe-ddt-2013-04,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_1,LE BRIONNEAU & SES AFFLUENTS,Crise,28/08/2013,03/09/2013,6,108.68,NA,ppe-ddt-2013-05,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_1,LE BRIONNEAU & SES AFFLUENTS,Crise,04/09/2013,10/09/2013,6,108.68,NA,ppe-ddt-2013-06,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_1,LE BRIONNEAU & SES AFFLUENTS,Crise,11/09/2013,17/09/2013,6,108.68,NA,ppe-ddt-2013-07,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_12,OUDON,Alerte renforcée,23/07/2013,30/07/2013,7,714.78,NA,ppe-ddt-2013-01,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_12,OUDON,Alerte renforcée,21/08/2013,27/08/2013,6,714.78,NA,ppe-ddt-2013-04,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_12,OUDON,Alerte renforcée,28/08/2013,03/09/2013,6,714.78,NA,ppe-ddt-2013-05,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_12,OUDON,Alerte renforcée,18/09/2013,21/10/2013,33,714.78,NA,ppe-ddt-2013-08,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_12,OUDON,Crise,04/09/2013,10/09/2013,6,714.78,NA,ppe-ddt-2013-06,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_12,OUDON,Crise,11/09/2013,17/09/2013,6,714.78,NA,ppe-ddt-2013-07,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_12,OUDON,Vigilance,31/07/2013,06/08/2013,6,714.78,NA,ppe-ddt-2013-02,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_12,OUDON,Vigilance,07/08/2013,20/08/2013,13,714.78,NA,ppe-ddt-2013-03,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_13,L'ERDRE ET SES AFFLUENTS,Alerte renforcée,07/08/2013,20/08/2013,13,201.04,NA,ppe-ddt-2013-03,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_13,L'ERDRE ET SES AFFLUENTS,Alerte renforcée,21/08/2013,27/08/2013,6,201.04,NA,ppe-ddt-2013-04,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_13,L'ERDRE ET SES AFFLUENTS,Alerte renforcée,18/09/2013,21/10/2013,33,201.04,NA,ppe-ddt-2013-08,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_13,L'ERDRE ET SES AFFLUENTS,Crise,28/08/2013,03/09/2013,6,201.04,NA,ppe-ddt-2013-05,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_13,L'ERDRE ET SES AFFLUENTS,Crise,04/09/2013,10/09/2013,6,201.04,NA,ppe-ddt-2013-06,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_13,L'ERDRE ET SES AFFLUENTS,Crise,11/09/2013,17/09/2013,6,201.04,NA,ppe-ddt-2013-07,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_13,L'ERDRE ET SES AFFLUENTS,Vigilance,23/07/2013,30/07/2013,7,201.04,NA,ppe-ddt-2013-01,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_13,L'ERDRE ET SES AFFLUENTS,Vigilance,31/07/2013,06/08/2013,6,201.04,NA,ppe-ddt-2013-02,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_15,LE DOUET & SES AFFLUENTS,Vigilance,21/08/2013,27/08/2013,6,335.35,NA,ppe-ddt-2013-04,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_15,LE DOUET & SES AFFLUENTS,Vigilance,28/08/2013,03/09/2013,6,335.35,NA,ppe-ddt-2013-05,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_15,LE DOUET & SES AFFLUENTS,Vigilance,04/09/2013,10/09/2013,6,335.35,NA,ppe-ddt-2013-06,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_15,LE DOUET & SES AFFLUENTS,Vigilance,11/09/2013,17/09/2013,6,335.35,NA,ppe-ddt-2013-07,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_16,L'ARGENTON ET SES AFFLUENTS,Alerte renforcée,11/09/2013,17/09/2013,6,116.31,NA,ppe-ddt-2013-07,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_16,L'ARGENTON ET SES AFFLUENTS,Vigilance,23/07/2013,30/07/2013,7,116.31,NA,ppe-ddt-2013-01,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_16,L'ARGENTON ET SES AFFLUENTS,Vigilance,31/07/2013,06/08/2013,6,116.31,NA,ppe-ddt-2013-02,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_16,L'ARGENTON ET SES AFFLUENTS,Vigilance,07/08/2013,20/08/2013,13,116.31,NA,ppe-ddt-2013-03,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_16,L'ARGENTON ET SES AFFLUENTS,Vigilance,21/08/2013,27/08/2013,6,116.31,NA,ppe-ddt-2013-04,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_16,L'ARGENTON ET SES AFFLUENTS,Vigilance,28/08/2013,03/09/2013,6,116.31,NA,ppe-ddt-2013-05,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_16,L'ARGENTON ET SES AFFLUENTS,Vigilance,04/09/2013,10/09/2013,6,116.31,NA,ppe-ddt-2013-06,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_17,LE LAYON,Alerte renforcée,07/08/2013,20/08/2013,13,843.29,NA,ppe-ddt-2013-03,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_17,LE LAYON,Crise,21/08/2013,27/08/2013,6,843.29,NA,ppe-ddt-2013-04,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_17,LE LAYON,Crise,28/08/2013,03/09/2013,6,843.29,NA,ppe-ddt-2013-05,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_17,LE LAYON,Crise,04/09/2013,10/09/2013,6,843.29,NA,ppe-ddt-2013-06,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_17,LE LAYON,Crise,11/09/2013,17/09/2013,6,843.29,NA,ppe-ddt-2013-07,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_17,LE LAYON,Vigilance,23/07/2013,30/07/2013,7,843.29,NA,ppe-ddt-2013-01,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_17,LE LAYON,Vigilance,31/07/2013,06/08/2013,6,843.29,NA,ppe-ddt-2013-02,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_18,LE MOINE ET SES AFFLENTS,Vigilance,07/08/2013,20/08/2013,13,332.57,NA,ppe-ddt-2013-03,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_18,LE MOINE ET SES AFFLENTS,Vigilance,21/08/2013,27/08/2013,6,332.57,NA,ppe-ddt-2013-04,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_19,L'EVRE ET SES AFFLUENTS,Alerte renforcée,23/07/2013,30/07/2013,7,585.57,NA,ppe-ddt-2013-01,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_19,L'EVRE ET SES AFFLUENTS,Alerte renforcée,07/08/2013,20/08/2013,13,585.57,NA,ppe-ddt-2013-03,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_19,L'EVRE ET SES AFFLUENTS,Alerte renforcée,21/08/2013,27/08/2013,6,585.57,NA,ppe-ddt-2013-04,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_19,L'EVRE ET SES AFFLUENTS,Alerte renforcée,28/08/2013,03/09/2013,6,585.57,NA,ppe-ddt-2013-05,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_19,L'EVRE ET SES AFFLUENTS,Alerte renforcée,04/09/2013,10/09/2013,6,585.57,NA,ppe-ddt-2013-06,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_19,L'EVRE ET SES AFFLUENTS,Alerte renforcée,11/09/2013,17/09/2013,6,585.57,NA,ppe-ddt-2013-07,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_19,L'EVRE ET SES AFFLUENTS,Vigilance,31/07/2013,06/08/2013,6,585.57,NA,ppe-ddt-2013-02,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_2,LA ROMME DE SA SOURCE A LA LOGE (exclue),Alerte renforcée,07/08/2013,20/08/2013,13,190.98,NA,ppe-ddt-2013-03,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_2,LA ROMME DE SA SOURCE A LA LOGE (exclue),Alerte renforcée,21/08/2013,27/08/2013,6,190.98,NA,ppe-ddt-2013-04,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_2,LA ROMME DE SA SOURCE A LA LOGE (exclue),Alerte renforcée,28/08/2013,03/09/2013,6,190.98,NA,ppe-ddt-2013-05,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_2,LA ROMME DE SA SOURCE A LA LOGE (exclue),Alerte renforcée,18/09/2013,21/10/2013,33,190.98,NA,ppe-ddt-2013-08,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_2,LA ROMME DE SA SOURCE A LA LOGE (exclue),Crise,04/09/2013,10/09/2013,6,190.98,NA,ppe-ddt-2013-06,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_2,LA ROMME DE SA SOURCE A LA LOGE (exclue),Crise,11/09/2013,17/09/2013,6,190.98,NA,ppe-ddt-2013-07,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_2,LA ROMME DE SA SOURCE A LA LOGE (exclue),Vigilance,23/07/2013,30/07/2013,7,190.98,NA,ppe-ddt-2013-01,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_2,LA ROMME DE SA SOURCE A LA LOGE (exclue),Vigilance,31/07/2013,06/08/2013,6,190.98,NA,ppe-ddt-2013-02,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_21,LA DIVATTE ET SES AFFLUENTS,Alerte renforcée,18/09/2013,21/10/2013,33,66.85,NA,ppe-ddt-2013-08,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_21,LA DIVATTE ET SES AFFLUENTS,Crise,04/09/2013,10/09/2013,6,66.85,NA,ppe-ddt-2013-06,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_21,LA DIVATTE ET SES AFFLUENTS,Crise,11/09/2013,17/09/2013,6,66.85,NA,ppe-ddt-2013-07,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_4,LA LOIRE DE LA BOIRE DE CHAMPTOCE (exclue) A L'EVR,Alerte renforcée,21/08/2013,27/08/2013,6,80.81,NA,ppe-ddt-2013-04,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_4,LA LOIRE DE LA BOIRE DE CHAMPTOCE (exclue) A L'EVR,Alerte renforcée,18/09/2013,21/10/2013,33,80.81,NA,ppe-ddt-2013-08,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_4,LA LOIRE DE LA BOIRE DE CHAMPTOCE (exclue) A L'EVR,Crise,28/08/2013,03/09/2013,6,80.81,NA,ppe-ddt-2013-05,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_4,LA LOIRE DE LA BOIRE DE CHAMPTOCE (exclue) A L'EVR,Crise,04/09/2013,10/09/2013,6,80.81,NA,ppe-ddt-2013-06,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_4,LA LOIRE DE LA BOIRE DE CHAMPTOCE (exclue) A L'EVR,Crise,11/09/2013,17/09/2013,6,80.81,NA,ppe-ddt-2013-07,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_4,LA LOIRE DE LA BOIRE DE CHAMPTOCE (exclue) A L'EVR,Vigilance,23/07/2013,30/07/2013,7,80.81,NA,ppe-ddt-2013-01,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_4,LA LOIRE DE LA BOIRE DE CHAMPTOCE (exclue) A L'EVR,Vigilance,31/07/2013,06/08/2013,6,80.81,NA,ppe-ddt-2013-02,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_4,LA LOIRE DE LA BOIRE DE CHAMPTOCE (exclue) A L'EVR,Vigilance,07/08/2013,20/08/2013,13,80.81,NA,ppe-ddt-2013-03,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_5,LE LOUET DE LA LOIRE (exclue) A L'AUBANCE (incluse,Alerte renforcée,21/08/2013,27/08/2013,6,224.24,NA,ppe-ddt-2013-04,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_5,LE LOUET DE LA LOIRE (exclue) A L'AUBANCE (incluse,Alerte renforcée,28/08/2013,03/09/2013,6,224.24,NA,ppe-ddt-2013-05,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_5,LE LOUET DE LA LOIRE (exclue) A L'AUBANCE (incluse,Alerte renforcée,04/09/2013,10/09/2013,6,224.24,NA,ppe-ddt-2013-06,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_5,LE LOUET DE LA LOIRE (exclue) A L'AUBANCE (incluse,Crise,11/09/2013,17/09/2013,6,224.24,NA,ppe-ddt-2013-07,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_5,LE LOUET DE LA LOIRE (exclue) A L'AUBANCE (incluse,Vigilance,23/07/2013,30/07/2013,7,224.24,NA,ppe-ddt-2013-01,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_5,LE LOUET DE LA LOIRE (exclue) A L'AUBANCE (incluse,Vigilance,31/07/2013,06/08/2013,6,224.24,NA,ppe-ddt-2013-02,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_5,LE LOUET DE LA LOIRE (exclue) A L'AUBANCE (incluse,Vigilance,07/08/2013,20/08/2013,13,224.24,NA,ppe-ddt-2013-03,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_6,L'HYROME & SES AFFLUENTS,Alerte renforcée,11/09/2013,17/09/2013,6,154.32,NA,ppe-ddt-2013-07,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_6,L'HYROME & SES AFFLUENTS,Vigilance,07/08/2013,20/08/2013,13,154.32,NA,ppe-ddt-2013-03,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_6,L'HYROME & SES AFFLUENTS,Vigilance,21/08/2013,27/08/2013,6,154.32,NA,ppe-ddt-2013-04,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_6,L'HYROME & SES AFFLUENTS,Vigilance,28/08/2013,03/09/2013,6,154.32,NA,ppe-ddt-2013-05,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_6,L'HYROME & SES AFFLUENTS,Vigilance,04/09/2013,10/09/2013,6,154.32,NA,ppe-ddt-2013-06,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_9,LA MAYENNE,Vigilance,21/08/2013,27/08/2013,6,256.82,NA,ppe-ddt-2013-04,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_9,LA MAYENNE,Vigilance,28/08/2013,03/09/2013,6,256.82,NA,ppe-ddt-2013-05,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_9,LA MAYENNE,Vigilance,04/09/2013,10/09/2013,6,256.82,NA,ppe-ddt-2013-06,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_49_9,LA MAYENNE,Vigilance,11/09/2013,17/09/2013,6,256.82,NA,ppe-ddt-2013-07,Pays de la Loire,LOIRE-BRETAGNE,Maine-et-Loire,Superficielle
+52_53_01,MAYENNE AMONT,Alerte,21/08/2013,16/10/2013,56,1456.68,NA,2013232-0001,Pays de la Loire,LOIRE-BRETAGNE,Mayenne,Superficielle
+52_53_01,MAYENNE AMONT,Vigilance,16/07/2013,20/08/2013,35,1456.68,NA,communiqué de presse,Pays de la Loire,LOIRE-BRETAGNE,Mayenne,Superficielle
+52_53_02,MAYENNE MEDIANE ET AVAL,Vigilance,21/08/2013,16/10/2013,56,2264.42,NA,2013232-0001,Pays de la Loire,LOIRE-BRETAGNE,Mayenne,Superficielle
+52_53_03,SARTHE AVAL,Alerte,21/08/2013,16/10/2013,56,757.17,NA,2013232-0001,Pays de la Loire,LOIRE-BRETAGNE,Mayenne,Superficielle
+52_53_04,OUDON,Alerte,21/08/2013,16/10/2013,56,731.52,NA,2013232-0001,Pays de la Loire,LOIRE-BRETAGNE,Mayenne,Superficielle
+52_53_04,OUDON,Vigilance,16/07/2013,20/08/2013,35,731.52,NA,communiqué de presse,Pays de la Loire,LOIRE-BRETAGNE,Mayenne,Superficielle
+52_85_01,LOGNE - BOULOGNE ET GRAND-LIEU,Crise,20/07/2013,09/08/2013,20,316.27,NA,13-DDTM85-457,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_01,LOGNE - BOULOGNE ET GRAND-LIEU,Crise,10/08/2013,23/08/2013,13,316.27,NA,13-DDTM85-503,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_01,LOGNE - BOULOGNE ET GRAND-LIEU,Crise,24/08/2013,04/09/2013,11,316.27,NA,13-DDTM85-510,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_01,LOGNE - BOULOGNE ET GRAND-LIEU,Crise,05/09/2013,31/10/2013,56,316.27,NA,13-DDTM85-517,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_02,SEVRE NANTAISE,Alerte renforcée,10/08/2013,23/08/2013,13,1021.4,NA,13-DDTM85-503,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_02,SEVRE NANTAISE,Alerte renforcée,24/08/2013,04/09/2013,11,1021.4,NA,13-DDTM85-510,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_02,SEVRE NANTAISE,Alerte renforcée,05/09/2013,31/10/2013,56,1021.4,NA,13-DDTM85-517,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_03,AUZANCE - VERTONE,Crise,20/07/2013,09/08/2013,20,625.11,NA,13-DDTM85-457,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_03,AUZANCE - VERTONE,Crise,10/08/2013,23/08/2013,13,625.11,NA,13-DDTM85-503,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_03,AUZANCE - VERTONE,Crise,24/08/2013,04/09/2013,11,625.11,NA,13-DDTM85-510,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_03,AUZANCE - VERTONE,Crise,05/09/2013,31/10/2013,56,625.11,NA,13-DDTM85-517,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_04,SEVRE NIORTAISE ET MARAIS POITEVIN,Crise,05/09/2013,31/10/2013,56,754.2,NA,13-DDTM85-517,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_05,VIE - LIGNERON - VERTONE,Crise,20/07/2013,09/08/2013,20,726.19,NA,13-DDTM85-457,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_05,VIE - LIGNERON - VERTONE,Crise,10/08/2013,23/08/2013,13,726.19,NA,13-DDTM85-503,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_05,VIE - LIGNERON - VERTONE,Crise,24/08/2013,04/09/2013,11,726.19,NA,13-DDTM85-510,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_05,VIE - LIGNERON - VERTONE,Crise,05/09/2013,31/10/2013,56,726.19,NA,13-DDTM85-517,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_08,LAY,Alerte renforcée,10/08/2013,23/08/2013,13,2188.2,NA,13-DDTM85-503,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_08,LAY,Crise,24/08/2013,04/09/2013,11,2188.2,NA,13-DDTM85-510,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+52_85_08,LAY,Crise,05/09/2013,31/10/2013,56,2188.2,NA,13-DDTM85-517,Pays de la Loire,LOIRE-BRETAGNE,Vendée,Superficielle
+53_35_0001,Bassin Côtier,Vigilance,16/09/2013,31/10/2013,45,689.36,NA,2013-14905,Bretagne,LOIRE-BRETAGNE,Ille-et-Vilaine,Superficielle
+53_35_0002,Bassin du Couesnon,Vigilance,16/09/2013,31/10/2013,45,1086.69,NA,2013-14905,Bretagne,LOIRE-BRETAGNE,Ille-et-Vilaine,Superficielle
+53_35_0003,Bassin de la Vilaine en amont de Rennes,Vigilance,16/09/2013,31/10/2013,45,773.59,NA,2013-14905,Bretagne,LOIRE-BRETAGNE,Ille-et-Vilaine,Superficielle
+53_35_0004,Bassin de la Vilaine Nord (Meu ),Vigilance,16/09/2013,31/10/2013,45,1892.07,NA,2013-14905,Bretagne,LOIRE-BRETAGNE,Ille-et-Vilaine,Superficielle
+53_35_0005,Bassin de l'Aff,Vigilance,16/09/2013,31/10/2013,45,515.45,NA,2013-14905,Bretagne,LOIRE-BRETAGNE,Ille-et-Vilaine,Superficielle
+53_35_0006,Bassin de la Vilaine Médiane (Seiche),Vigilance,16/09/2013,31/10/2013,45,1717.01,NA,2013-14905,Bretagne,LOIRE-BRETAGNE,Ille-et-Vilaine,Superficielle
+53_35_0007,Bassin de la Chere-partie Ille et Vilaine,Alerte,06/09/2013,31/10/2013,55,165.27,NA,20130906,Bretagne,LOIRE-BRETAGNE,Ille-et-Vilaine,Superficielle
+53_35_0007,Bassin de la Chere-partie Ille et Vilaine,Vigilance,24/07/2013,05/09/2013,43,165.27,NA,14575,Bretagne,LOIRE-BRETAGNE,Ille-et-Vilaine,Superficielle
+54_16_13,Bassin de l'Echelle,Alerte,03/09/2013,01/10/2013,28,64.97,NA,2013245-0013,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_16,Bassin du Né,Alerte,20/08/2013,11/09/2013,22,623.81,NA,2013231-0014,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_16,Bassin du Né,Alerte renforcée,21/09/2013,01/10/2013,10,623.81,NA,2013263-0015,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_16,Bassin du Né,Crise,12/09/2013,20/09/2013,8,623.81,NA,2013254-001,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_17,Bassin de la Nouère,Alerte,03/09/2013,01/10/2013,28,118.13,NA,2013245-0015,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_19,Bassin de Poussonne-Palais,Alerte renforcée,24/08/2013,02/09/2013,9,78.52,NA,2013235-0006,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_2,Bassin de l'Argence,Alerte,03/09/2013,01/10/2013,28,84.47,NA,2013245-0012,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_20,Bassin de la Seugne,Alerte,22/08/2013,01/10/2013,40,132.39,NA,2013233-0004,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_25,Bassin de la Tude,Alerte renforcée,20/08/2013,23/08/2013,3,323.9,NA,2013231-0012,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_25,Bassin de la Tude,Alerte renforcée,30/08/2013,31/08/2013,1,323.9,NA,2013241-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_25,Bassin de la Tude,Alerte renforcée,21/09/2013,01/10/2013,10,323.9,NA,2013263-0014,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_25,Bassin de la Tude,Crise,24/08/2013,29/08/2013,5,323.9,NA,2013235-0007,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_25,Bassin de la Tude,Crise,01/09/2013,20/09/2013,19,323.9,NA,2013242-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_4,Bassin de l'Auge,Alerte,27/08/2013,01/10/2013,35,73.97,NA,2013238-0001,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_6,Bassin de l'Auzonne,Alerte renforcée,24/08/2013,02/09/2013,9,41.82,NA,2013235-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_6,Bassin de l'Auzonne,Alerte renforcée,21/09/2013,01/10/2013,10,41.82,NA,2013263-0013,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_6,Bassin de l'Auzonne,Crise,03/09/2013,20/09/2013,17,41.82,NA,2013245-0014,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_7,Bassin du Bandiat,Alerte,20/08/2013,01/10/2013,42,240.03,NA,2013231-0015,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_9,Bassin de la Bonnieure,Alerte,13/08/2013,19/08/2013,6,203.41,NA,2013224-0017,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_16_9,Bassin de la Bonnieure,Alerte renforcée,20/08/2013,01/10/2013,42,203.41,NA,2013231-0013,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente,Superficielle
+54_17_1,CURE ET SEVRES NIORTAISE,Alerte,22/08/2013,03/10/2013,42,833.26,NA,13-2140,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Charente-Maritime,Superficielle
+54_17_1,CURE ET SEVRES NIORTAISE,Alerte,04/10/2013,27/10/2013,23,833.26,NA,13-2429,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Charente-Maritime,Superficielle
+54_17_13,LE LARY ET LE PALAIS,Crise,24/08/2013,09/09/2013,16,356.69,NA,13-2150,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_13,LE LARY ET LE PALAIS,Crise,10/09/2013,11/09/2013,1,356.69,NA,13-2221,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_13,LE LARY ET LE PALAIS,Crise,12/09/2013,18/09/2013,6,356.69,NA,13-2236,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_13,LE LARY ET LE PALAIS,Crise,19/09/2013,20/09/2013,1,356.69,NA,13-2292,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_13,LE LARY ET LE PALAIS,Crise,21/09/2013,30/09/2013,9,356.69,NA,13-2352,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_3,LE MIGNON,Alerte,15/07/2013,18/08/2013,34,150.37,NA,13-1734,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Charente-Maritime,Superficielle
+54_17_3,LE MIGNON,Alerte,04/10/2013,27/10/2013,23,150.37,NA,13-2429,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Charente-Maritime,Superficielle
+54_17_3,LE MIGNON,Alerte renforcée,19/08/2013,21/08/2013,2,150.37,NA,13-2102,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Charente-Maritime,Superficielle
+54_17_3,LE MIGNON,Alerte renforcée,22/08/2013,03/10/2013,42,150.37,NA,13-2140,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Charente-Maritime,Superficielle
+54_17_4,L'ANTENNE ET LA ROUZILLE,Alerte,19/09/2013,20/09/2013,1,439.12,NA,13-2292,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_4,L'ANTENNE ET LA ROUZILLE,Alerte,21/09/2013,30/09/2013,9,439.12,NA,13-2352,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_5,LA SEUDRE,Alerte,20/07/2013,20/08/2013,31,615.57,NA,13-1881,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_5,LA SEUDRE,Alerte,21/08/2013,21/08/2013,0,615.57,NA,13-2118,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_5,LA SEUDRE,Alerte,22/08/2013,23/08/2013,1,615.57,NA,13-2141,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_5,LA SEUDRE,Alerte,24/08/2013,09/09/2013,16,615.57,NA,13-2150,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_5,LA SEUDRE,Alerte,10/09/2013,11/09/2013,1,615.57,NA,13-2221,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_5,LA SEUDRE,Alerte,12/09/2013,18/09/2013,6,615.57,NA,13-2236,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_5,LA SEUDRE,Alerte,19/09/2013,20/09/2013,1,615.57,NA,13-2292,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_5,LA SEUDRE,Alerte,21/09/2013,30/09/2013,9,615.57,NA,13-2352,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_7,LA SEUGNE,Alerte,21/08/2013,21/08/2013,0,891.51,NA,13-2118,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_7,LA SEUGNE,Alerte,22/08/2013,23/08/2013,1,891.51,NA,13-2141,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_7,LA SEUGNE,Alerte,24/08/2013,09/09/2013,16,891.51,NA,13-2150,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_7,LA SEUGNE,Alerte,10/09/2013,11/09/2013,1,891.51,NA,13-2221,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_7,LA SEUGNE,Alerte,12/09/2013,18/09/2013,6,891.51,NA,13-2236,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_7,LA SEUGNE,Alerte,19/09/2013,20/09/2013,1,891.51,NA,13-2292,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_7,LA SEUGNE,Alerte,21/09/2013,30/09/2013,9,891.51,NA,13-2352,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_8,LE NE,Alerte,22/08/2013,23/08/2013,1,91.14,NA,13-2141,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_8,LE NE,Alerte,24/08/2013,09/09/2013,16,91.14,NA,13-2150,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_8,LE NE,Alerte renforcée,10/09/2013,11/09/2013,1,91.14,NA,13-2221,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_8,LE NE,Alerte renforcée,21/09/2013,30/09/2013,9,91.14,NA,13-2352,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_8,LE NE,Crise,12/09/2013,18/09/2013,6,91.14,NA,13-2236,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_17_8,LE NE,Crise,19/09/2013,20/09/2013,1,91.14,NA,13-2292,Nouvelle-Aquitaine,ADOUR-GARONNE,Charente-Maritime,Superficielle
+54_79_10a2,Sèvre Niortaise Moyenne,Alerte renforcée,16/09/2013,25/09/2013,9,574.87,NA,1 sevre niortaise 10a2,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_11a,Autize,Alerte,26/08/2013,04/09/2013,9,264.97,NA,1 autize 11a,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_11a,Autize,Alerte,30/09/2013,27/10/2013,27,264.97,NA,3 autize 11a,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_11a,Autize,Crise,05/09/2013,29/09/2013,24,264.97,NA,2 autize 11a,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_1a,Argenton,Alerte renforcée,13/08/2013,12/09/2013,30,666.08,NA,1 argenton,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_1a,Argenton,Crise,13/09/2013,30/09/2013,17,666.08,NA,2 argenton,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_1b,Layon,Alerte renforcée,09/08/2013,20/08/2013,11,79.27,NA,2 layon aubance,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_1b,Layon,Crise,21/08/2013,30/09/2013,40,79.27,NA,3 layon aubance,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_1b,Layon,Vigilance,22/07/2013,08/08/2013,17,79.27,NA,1 layon aubance,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_2a,Thouet,Alerte renforcée,27/08/2013,30/09/2013,34,923.37,NA,1 thouet,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_3,3 Thouaret,Alerte renforcée,13/08/2013,12/08/2013,-1,297.4,NA,1 thouaret,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_3,Thouaret,Alerte renforcée,13/08/2013,04/09/2013,22,310.36,NA,1 thouaret,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_3,Thouaret,Crise,05/09/2013,30/09/2013,25,310.36,NA,2 thouaret,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_9,Mignon Courance,Alerte,15/07/2013,18/08/2013,34,474.42,NA,1 mignon courance,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_9,Mignon Courance,Alerte,30/09/2013,27/10/2013,27,474.42,NA,3 mignon courance,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_79_9,Mignon Courance,Alerte renforcée,19/08/2013,29/09/2013,41,474.42,NA,2 mignon courance,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Deux-Sèvres,Superficielle
+54_86_13,Bassin_Gartempe_MONTMORILLON,Alerte renforcée,09/09/2013,30/09/2013,21,480.6,NA,DDT_SEB_663,Nouvelle-Aquitaine,LOIRE-BRETAGNE,Vienne,Superficielle
+72_24_0201,Bandiat,Alerte,23/08/2013,29/08/2013,6,256.16,NA,2013233-0003,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0201,Bandiat,Alerte,30/08/2013,05/09/2013,6,256.16,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0201,Bandiat,Alerte,06/09/2013,10/10/2013,34,256.16,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0302,Belle,Alerte,16/08/2013,22/08/2013,6,91.69,NA,2013226-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0302,Belle,Alerte renforcée,23/08/2013,29/08/2013,6,91.69,NA,2013233-0003,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0302,Belle,Alerte renforcée,30/08/2013,05/09/2013,6,91.69,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0302,Belle,Crise,06/09/2013,10/10/2013,34,91.69,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0304,Pude,Alerte,06/09/2013,10/10/2013,34,72.74,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0305,Sauvanie,Alerte renforcée,06/09/2013,10/10/2013,34,64.29,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0402,Boulou,Alerte,30/08/2013,05/09/2013,6,90.42,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0402,Boulou,Alerte renforcée,06/09/2013,10/10/2013,34,90.42,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0403,Euche,Alerte,30/08/2013,05/09/2013,6,86.89,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0403,Euche,Alerte renforcée,06/09/2013,10/10/2013,34,86.89,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0504,Vern,Crise,06/09/2013,10/10/2013,34,298.86,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0505,Crempse,Alerte,23/08/2013,29/08/2013,6,156.91,NA,2013233-0003,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0505,Crempse,Alerte,30/08/2013,05/09/2013,6,156.91,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0505,Crempse,Alerte renforcée,06/09/2013,10/10/2013,34,156.91,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0702,Coly Chironde,Alerte,06/09/2013,10/10/2013,34,168.64,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0703,Beune,Alerte,23/08/2013,29/08/2013,6,153.86,NA,2013233-0003,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0703,Beune,Alerte,30/08/2013,05/09/2013,6,153.86,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0703,Beune,Alerte,06/09/2013,10/10/2013,34,153.86,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0801,Lidoire,Alerte renforcée,30/08/2013,05/09/2013,6,194.53,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0801,Lidoire,Crise,06/09/2013,10/10/2013,34,194.53,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0803,Caudeau,Alerte,02/08/2013,15/08/2013,13,223.42,NA,2013213-0001,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0803,Caudeau,Alerte renforcée,16/08/2013,22/08/2013,6,223.42,NA,2013226-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0803,Caudeau,Alerte renforcée,23/08/2013,29/08/2013,6,223.42,NA,2013233-0003,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0803,Caudeau,Alerte renforcée,30/08/2013,05/09/2013,6,223.42,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0803,Caudeau,Alerte renforcée,06/09/2013,10/10/2013,34,223.42,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0804,Louyre,Alerte,02/08/2013,15/08/2013,13,96.36,NA,2013213-0001,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0804,Louyre,Alerte renforcée,16/08/2013,22/08/2013,6,96.36,NA,2013226-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0804,Louyre,Alerte renforcée,23/08/2013,29/08/2013,6,96.36,NA,2013233-0003,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0804,Louyre,Alerte renforcée,30/08/2013,05/09/2013,6,96.36,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0804,Louyre,Crise,06/09/2013,10/10/2013,34,96.36,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0805,Estrop,Alerte renforcée,30/08/2013,05/09/2013,6,48.56,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0805,Estrop,Crise,06/09/2013,10/10/2013,34,48.56,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0806,Dordogne aval,Alerte renforcée,30/08/2013,05/09/2013,6,488.23,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0806,Dordogne aval,Crise,06/09/2013,10/10/2013,34,488.23,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0807,Gardonnette,Alerte renforcée,30/08/2013,05/09/2013,6,115.79,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0807,Gardonnette,Crise,06/09/2013,10/10/2013,34,115.79,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0808,Conne,Alerte renforcée,30/08/2013,05/09/2013,6,86.45,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0808,Conne,Crise,06/09/2013,10/10/2013,34,86.45,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0809,Couzeau,Alerte renforcée,02/08/2013,15/08/2013,13,42.6,NA,2013213-0001,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0809,Couzeau,Alerte renforcée,16/08/2013,22/08/2013,6,42.6,NA,2013226-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0809,Couzeau,Alerte renforcée,30/08/2013,05/09/2013,6,42.6,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0809,Couzeau,Crise,23/08/2013,29/08/2013,6,42.6,NA,2013233-0003,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0809,Couzeau,Crise,06/09/2013,10/10/2013,34,42.6,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0810,Couze,Alerte,26/07/2013,01/08/2013,6,208.67,NA,20132006-0001,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0810,Couze,Alerte renforcée,02/08/2013,15/08/2013,13,208.67,NA,2013213-0001,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0810,Couze,Alerte renforcée,16/08/2013,22/08/2013,6,208.67,NA,2013226-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0810,Couze,Alerte renforcée,30/08/2013,05/09/2013,6,208.67,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0810,Couze,Crise,23/08/2013,29/08/2013,6,208.67,NA,2013233-0003,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0810,Couze,Crise,06/09/2013,10/10/2013,34,208.67,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0902,Enéa,Alerte renforcée,18/07/2013,25/07/2013,7,119.08,NA,2013199-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0902,Enéa,Alerte renforcée,26/07/2013,01/08/2013,6,119.08,NA,20132006-0001,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0902,Enéa,Alerte renforcée,02/08/2013,15/08/2013,13,119.08,NA,2013213-0001,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0902,Enéa,Alerte renforcée,16/08/2013,22/08/2013,6,119.08,NA,2013226-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0902,Enéa,Alerte renforcée,23/08/2013,29/08/2013,6,119.08,NA,2013233-0003,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0902,Enéa,Alerte renforcée,30/08/2013,05/09/2013,6,119.08,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0902,Enéa,Alerte renforcée,06/09/2013,10/10/2013,34,119.08,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0904,Nauze,Alerte,02/08/2013,15/08/2013,13,141.62,NA,2013213-0001,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0904,Nauze,Alerte,16/08/2013,22/08/2013,6,141.62,NA,2013226-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0904,Nauze,Alerte,30/08/2013,05/09/2013,6,141.62,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0904,Nauze,Alerte,06/09/2013,10/10/2013,34,141.62,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0904,Nauze,Alerte renforcée,23/08/2013,29/08/2013,6,141.62,NA,2013233-0003,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0905,Céou aval,Alerte,02/08/2013,15/08/2013,13,43.61,NA,2013213-0001,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0905,Céou aval,Alerte renforcée,16/08/2013,22/08/2013,6,43.61,NA,2013226-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0905,Céou aval,Alerte renforcée,23/08/2013,29/08/2013,6,43.61,NA,2013233-0003,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0905,Céou aval,Alerte renforcée,30/08/2013,05/09/2013,6,43.61,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0905,Céou aval,Alerte renforcée,06/09/2013,10/10/2013,34,43.61,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0906,Céou amont,Alerte,02/08/2013,15/08/2013,13,115.13,NA,2013213-0001,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0906,Céou amont,Alerte,16/08/2013,22/08/2013,6,115.13,NA,2013226-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0906,Céou amont,Alerte renforcée,23/08/2013,29/08/2013,6,115.13,NA,2013233-0003,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0906,Céou amont,Crise,30/08/2013,05/09/2013,6,115.13,NA,2013241-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_24_0906,Céou amont,Crise,06/09/2013,10/10/2013,34,115.13,NA,2013248-0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Dordogne,Superficielle
+72_33_100,Les côtiers de la Pointe de Grave au confluent du Chenal de Richard (inclus),Crise,03/09/2013,30/09/2013,27,460.08,NA,2,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_545,Le Seignal de sa source au confluent du Moiron,Crise,13/08/2013,02/09/2013,20,20.94,NA,1,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_545,Le Seignal de sa source au confluent du Moiron,Crise,03/09/2013,30/09/2013,27,20.94,NA,2,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_547,Le Seignal du confluent du Moiron au confluent de la Dordogne,Crise,13/08/2013,02/09/2013,20,1.21,NA,1,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_547,Le Seignal du confluent du Moiron au confluent de la Dordogne,Crise,03/09/2013,30/09/2013,27,1.21,NA,2,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_550,La Gravouse,Crise,03/09/2013,30/09/2013,27,29.77,NA,2,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_564,La Lidoire du confluent du Lechout au confluent de la Dordogne,Alerte renforcée,03/09/2013,30/09/2013,27,14.1,NA,2,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_566,La Gamage,Alerte,13/08/2013,02/09/2013,20,59.61,NA,1,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_566,La Gamage,Alerte,03/09/2013,30/09/2013,27,59.61,NA,2,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_746,La Dronne du confluent du Chalaure au confluent de l'Isle,Alerte,10/09/2013,24/09/2013,14,64.27,NA,3,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_813,Le Ratut (Palais) de sa source au confluent du Gendarme (inclus),Alerte renforcée,13/08/2013,02/09/2013,20,44.34,NA,1,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_813,Le Ratut (Palais) de sa source au confluent du Gendarme (inclus),Crise,03/09/2013,30/09/2013,27,44.34,NA,2,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_814,Le Ratut (Palais) du confluent du Gendarme au confluent de l'Isle,Alerte renforcée,13/08/2013,02/09/2013,20,24.92,NA,1,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_814,Le Ratut (Palais) du confluent du Gendarme au confluent de l'Isle,Crise,03/09/2013,30/09/2013,27,24.92,NA,2,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_816,Le Lavie,Alerte,13/08/2013,02/09/2013,20,36.79,NA,1,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_816,Le Lavie,Alerte renforcée,03/09/2013,30/09/2013,27,36.79,NA,2,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_840,La Barbanne,Alerte,13/08/2013,02/09/2013,20,65.06,NA,1,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_840,La Barbanne,Alerte renforcée,03/09/2013,30/09/2013,27,65.06,NA,2,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_917,Le Lisos de sa source au confluent du [toponyme inconnu] (inclus),Alerte,13/08/2013,02/09/2013,20,40.6,NA,1,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_917,Le Lisos de sa source au confluent du [toponyme inconnu] (inclus),Alerte renforcée,03/09/2013,30/09/2013,27,40.6,NA,2,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_918,Le Lisos du confluent du [toponyme inconnu] au confluent de la Garonne,Alerte,13/08/2013,02/09/2013,20,32.99,NA,1,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_918,Le Lisos du confluent du [toponyme inconnu] au confluent de la Garonne,Alerte renforcée,03/09/2013,30/09/2013,27,32.99,NA,2,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_33_958,La Grave (Hure),Crise,03/09/2013,30/09/2013,27,186.76,NA,2,Nouvelle-Aquitaine,ADOUR-GARONNE,Gironde,Superficielle
+72_40_10,bassin de l'Adour zone 2D,Vigilance,26/08/2013,30/09/2013,35,270.97,NA,2013-1514,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_20,bassin du Ludon,Alerte,03/08/2013,08/08/2013,5,57.37,NA,2013-1436,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_20,bassin du Ludon,Alerte,15/08/2013,09/09/2013,25,57.37,NA,2013-1481,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_20,bassin du Ludon,Vigilance,09/08/2013,14/08/2013,5,57.37,NA,2013-1460,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_20,bassin du Ludon,Vigilance,10/09/2013,30/09/2013,20,57.37,NA,2013-1563,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_3,bassin du Midou et de la Douze zone 4B Midou,Alerte renforcée,06/08/2013,07/08/2013,1,123.63,NA,2013-1448,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_3,bassin du Midou et de la Douze zone 4B Midou,Alerte renforcée,15/08/2013,27/08/2013,12,123.63,NA,2013-1480,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_3,bassin du Midou et de la Douze zone 4B Midou,Vigilance,08/08/2013,14/08/2013,6,123.63,NA,2013-1457,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_3,bassin du Midou et de la Douze zone 4B Midou,Vigilance,28/08/2013,30/09/2013,33,123.63,NA,2013-1522,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_5,bassin du Midou et de la Douze zone 4D Midou,Alerte renforcée,06/08/2013,07/08/2013,1,119.09,NA,2013-1448,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_5,bassin du Midou et de la Douze zone 4D Midou,Alerte renforcée,15/08/2013,27/08/2013,12,119.09,NA,2013-1480,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_5,bassin du Midou et de la Douze zone 4D Midou,Vigilance,08/08/2013,14/08/2013,6,119.09,NA,2013-1457,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_5,bassin du Midou et de la Douze zone 4D Midou,Vigilance,28/08/2013,30/09/2013,33,119.09,NA,2013-1522,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_7,bassin de l'Adour zone 2A,Vigilance,26/08/2013,30/09/2013,35,121.98,NA,2013-1514,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_8,bassin de l'Adour zone 2B,Vigilance,26/08/2013,30/09/2013,35,239.08,NA,2013-1514,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_40_9,bassin de l'Adour zone 2C,Vigilance,26/08/2013,30/09/2013,35,295.46,NA,2013-1514,Nouvelle-Aquitaine,ADOUR-GARONNE,Landes,Superficielle
+72_47_03,Unité du Lisos,Alerte renforcée,08/08/2013,12/09/2013,35,23.96,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_03,Unité du Lisos,Crise,13/09/2013,31/10/2013,48,23.96,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_23,Unité de la Séoune,Alerte renforcée,08/08/2013,12/09/2013,35,183.25,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_23,Unité de la Séoune,Crise,13/09/2013,31/10/2013,48,183.25,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_26,Unité Gers,Alerte renforcée,08/08/2013,12/09/2013,35,71.43,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_26,Unité Gers,Crise,13/09/2013,31/10/2013,48,71.43,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_27,Unité Auvignon,Alerte renforcée,08/08/2013,12/09/2013,35,168.89,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_27,Unité Auvignon,Crise,13/09/2013,31/10/2013,48,168.89,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_30,BV Masse de Prayssas,Alerte renforcée,08/08/2013,12/09/2013,35,75.21,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_30,BV Masse de Prayssas,Crise,13/09/2013,31/10/2013,48,75.21,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_31,Unité Boudouyssou Tancanne,Alerte renforcée,08/08/2013,12/09/2013,35,190.62,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_31,Unité Boudouyssou Tancanne,Crise,13/09/2013,31/10/2013,48,190.62,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_32,Unité du Tolzac,Alerte renforcée,08/08/2013,12/09/2013,35,314.62,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_32,Unité du Tolzac,Crise,13/09/2013,31/10/2013,48,314.62,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_33,Unité de la Lède non réalimenté,Alerte renforcée,08/08/2013,12/09/2013,35,413.04,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_33,Unité de la Lède non réalimenté,Crise,13/09/2013,31/10/2013,48,413.04,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_36,Unité Garonne aval rive droite,Alerte renforcée,08/08/2013,12/09/2013,35,93.23,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_36,Unité Garonne aval rive droite,Crise,13/09/2013,31/10/2013,48,93.23,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_37,Unité Garonne aval rive gauche,Alerte renforcée,08/08/2013,12/09/2013,35,135.23,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_37,Unité Garonne aval rive gauche,Crise,13/09/2013,31/10/2013,48,135.23,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_38,Unité Garonne amont rive droite,Alerte renforcée,08/08/2013,12/09/2013,35,99.05,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_38,Unité Garonne amont rive droite,Crise,13/09/2013,31/10/2013,48,99.05,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_39,Unité Garonne amont rive gauche,Alerte renforcée,08/08/2013,12/09/2013,35,267.41,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_39,Unité Garonne amont rive gauche,Crise,13/09/2013,31/10/2013,48,267.41,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_40,Unité Gupie,Alerte renforcée,08/08/2013,12/09/2013,35,132.46,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_40,Unité Gupie,Crise,13/09/2013,31/10/2013,48,132.46,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_41,Unité Trec,Alerte renforcée,08/08/2013,12/09/2013,35,113.08,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_41,Unité Trec,Crise,13/09/2013,31/10/2013,48,113.08,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_42,Unité Canaule,Alerte renforcée,08/08/2013,12/09/2013,35,90.62,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_42,Unité Canaule,Crise,13/09/2013,31/10/2013,48,90.62,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_44,Unité Tareyre,Alerte renforcée,08/08/2013,12/09/2013,35,34.01,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_44,Unité Tareyre,Crise,13/09/2013,31/10/2013,48,34.01,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_45,Unité plaine du Lot rive droite,Alerte renforcée,08/08/2013,12/09/2013,35,176.77,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_45,Unité plaine du Lot rive droite,Crise,13/09/2013,31/10/2013,48,176.77,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_46,Unité plaine du Lot rive gauche,Alerte renforcée,08/08/2013,12/09/2013,35,427.33,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_46,Unité plaine du Lot rive gauche,Crise,13/09/2013,31/10/2013,48,427.33,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_47,Unité Saint Martin,Alerte renforcée,08/08/2013,12/09/2013,35,28.61,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_47,Unité Saint Martin,Crise,13/09/2013,31/10/2013,48,28.61,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_48,Unité Bourbon,Alerte renforcée,08/08/2013,12/09/2013,35,51.07,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_48,Unité Bourbon,Crise,13/09/2013,31/10/2013,48,51.07,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_49,Unité Ségone,Alerte renforcée,08/08/2013,12/09/2013,35,23.49,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_49,Unité Ségone,Crise,13/09/2013,31/10/2013,48,23.49,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_50,Unité Masse d'Agen,Alerte renforcée,08/08/2013,12/09/2013,35,77.85,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_50,Unité Masse d'Agen,Crise,13/09/2013,31/10/2013,48,77.85,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_51,Unité Mondot,Alerte renforcée,08/08/2013,12/09/2013,35,21.98,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_51,Unité Mondot,Crise,13/09/2013,31/10/2013,48,21.98,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_52,Unité l'Herm,Alerte renforcée,08/08/2013,12/09/2013,35,18.55,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_52,Unité l'Herm,Crise,13/09/2013,31/10/2013,48,18.55,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_56,Unité Dropt,Alerte renforcée,08/08/2013,12/09/2013,35,667.39,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_56,Unité Dropt,Crise,13/09/2013,31/10/2013,48,667.39,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_57,Unité Sérac,Alerte renforcée,08/08/2013,12/09/2013,35,37.8,NA,20132180004,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+72_47_57,Unité Sérac,Crise,13/09/2013,31/10/2013,48,37.8,NA,2013255-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Lot-et-Garonne,Superficielle
+73_12_05,Bassin de la Rivière LOT de la confluence avec la Truyère à la limite Ouest du département hors,Alerte,22/08/2013,07/09/2013,16,590.37,NA,2013232-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_05,Bassin de la Rivière LOT de la confluence avec la Truyère à la limite Ouest du département hors,Alerte,08/09/2013,31/10/2013,53,590.37,NA,2013249-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_06,Bassin de la DIEGE,Alerte,06/08/2013,21/08/2013,15,164.42,NA,2013218-3,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_06,Bassin de la DIEGE,Alerte renforcée,22/08/2013,07/09/2013,16,164.42,NA,2013232-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_06,Bassin de la DIEGE,Alerte renforcée,08/09/2013,31/10/2013,53,164.42,NA,2013249-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_07,Bassin de l'AVEYRON de la limite du département à la confluence avec la SERRE,Alerte,06/08/2013,21/08/2013,15,338.14,NA,2013218-3,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_07,Bassin de l'AVEYRON de la limite du département à la confluence avec la SERRE,Alerte,22/08/2013,07/09/2013,16,338.14,NA,2013232-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_07,Bassin de l'AVEYRON de la limite du département à la confluence avec la SERRE,Alerte,08/09/2013,31/10/2013,53,338.14,NA,2013249-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_08,Bassin du RANCE,Alerte,06/08/2013,21/08/2013,15,406.47,NA,2013218-3,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_08,Bassin du RANCE,Alerte,22/08/2013,07/09/2013,16,406.47,NA,2013232-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_08,Bassin du RANCE,Alerte,08/09/2013,31/10/2013,53,406.47,NA,2013249-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_09,Bassin de l'AVEYRON de la confluence avec la SERRE à la confluence avec le RIOU NEGRE,Alerte,06/08/2013,21/08/2013,15,460.11,NA,2013218-3,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_09,Bassin de l'AVEYRON de la confluence avec la SERRE à la confluence avec le RIOU NEGRE,Alerte,22/08/2013,07/09/2013,16,460.11,NA,2013232-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_09,Bassin de l'AVEYRON de la confluence avec la SERRE à la confluence avec le RIOU NEGRE,Alerte,08/09/2013,31/10/2013,53,460.11,NA,2013249-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_10,Bassin de la SERENES,Alerte,06/08/2013,21/08/2013,15,125.52,NA,2013218-3,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_10,Bassin de la SERENES,Alerte,22/08/2013,07/09/2013,16,125.52,NA,2013232-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_10,Bassin de la SERENES,Alerte,08/09/2013,31/10/2013,53,125.52,NA,2013249-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_12,Bassin de l'ALZOU,Alerte,06/08/2013,21/08/2013,15,207.8,NA,2013218-3,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_12,Bassin de l'ALZOU,Alerte renforcée,22/08/2013,07/09/2013,16,207.8,NA,2013232-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_12,Bassin de l'ALZOU,Crise,08/09/2013,31/10/2013,53,207.8,NA,2013249-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_13,Bassin du DOURDOU DE CAMARES en amont de la confluence avec la SORGUES,Alerte,06/08/2013,21/08/2013,15,332.94,NA,2013218-3,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_13,Bassin du DOURDOU DE CAMARES en amont de la confluence avec la SORGUES,Alerte,22/08/2013,07/09/2013,16,332.94,NA,2013232-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_13,Bassin du DOURDOU DE CAMARES en amont de la confluence avec la SORGUES,Alerte,08/09/2013,31/10/2013,53,332.94,NA,2013249-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_14,Bassin du DOURDOU DE CONQUES,Alerte,06/08/2013,21/08/2013,15,601.43,NA,2013218-3,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_14,Bassin du DOURDOU DE CONQUES,Alerte,22/08/2013,07/09/2013,16,601.43,NA,2013232-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_12_14,Bassin du DOURDOU DE CONQUES,Alerte renforcée,08/09/2013,31/10/2013,53,601.43,NA,2013249-0001,Occitanie,ADOUR-GARONNE,Aveyron,Superficielle
+73_32_17,Le Petit Midour,Alerte renforcée,26/08/2013,05/09/2013,10,9.24,NA,2013-235-0001,Occitanie,ADOUR-GARONNE,Gers,Superficielle
+73_32_9,Le Midour,Alerte renforcée,26/08/2013,05/09/2013,10,19.85,NA,2013-235-0001,Occitanie,ADOUR-GARONNE,Gers,Superficielle
+73_46_1,Tourmente,Alerte renforcée,23/08/2013,29/08/2013,6,97.11,NA,E2013-276,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_1,Tourmente,Alerte renforcée,31/08/2013,04/09/2013,4,97.11,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_1,Tourmente,Alerte renforcée,07/09/2013,31/10/2013,54,97.11,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_10,Grande Barguelonne,Alerte,03/08/2013,08/08/2013,5,60.19,NA,E2013-251,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_10,Grande Barguelonne,Alerte renforcée,23/08/2013,29/08/2013,6,60.19,NA,E2013-276,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_10,Grande Barguelonne,Alerte renforcée,31/08/2013,04/09/2013,4,60.19,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_10,Grande Barguelonne,Crise,07/09/2013,31/10/2013,54,60.19,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_12,Vert Amont,Alerte renforcée,24/08/2013,06/09/2013,13,68.7,NA,E2013-275,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_12,Vert Amont,Crise,07/09/2013,31/10/2013,54,68.7,NA,E2013-285,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_13,Lendou,Alerte renforcée,23/08/2013,29/08/2013,6,96.21,NA,E2013-276,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_13,Lendou,Alerte renforcée,31/08/2013,04/09/2013,4,96.21,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_13,Lendou,Crise,07/09/2013,31/10/2013,54,96.21,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_14,Petite Barguelonne,Alerte,03/08/2013,08/08/2013,5,101.23,NA,E2013-251,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_14,Petite Barguelonne,Alerte renforcée,23/08/2013,29/08/2013,6,101.23,NA,E2013-276,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_14,Petite Barguelonne,Alerte renforcée,31/08/2013,04/09/2013,4,101.23,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_14,Petite Barguelonne,Crise,07/09/2013,31/10/2013,54,101.23,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_15,Ourajoux,Alerte,27/07/2013,09/08/2013,13,122.27,NA,E2013-244,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_15,Ourajoux,Alerte renforcée,10/08/2013,23/08/2013,13,122.27,NA,E2013-258,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_15,Ourajoux,Crise,24/08/2013,31/10/2013,68,122.27,NA,E2013-273,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_16,Céou,Alerte,27/07/2013,09/08/2013,13,219.85,NA,E2013-244,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_16,Céou,Alerte renforcée,10/08/2013,23/08/2013,13,219.85,NA,E2013-258,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_16,Céou,Crise,24/08/2013,31/10/2013,68,219.85,NA,E2013-273,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_17,Bléou,Alerte,27/07/2013,09/08/2013,13,65.2,NA,E2013-244,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_17,Bléou,Alerte renforcée,10/08/2013,23/08/2013,13,65.2,NA,E2013-258,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_17,Bléou,Crise,24/08/2013,31/10/2013,68,65.2,NA,E2013-273,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_24,Melve - Marcillande - Relinquière,Alerte,23/08/2013,29/08/2013,6,82.35,NA,E2013-276,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_24,Melve - Marcillande - Relinquière,Alerte renforcée,31/08/2013,04/09/2013,4,82.35,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_24,Melve - Marcillande - Relinquière,Alerte renforcée,07/09/2013,31/10/2013,54,82.35,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_25,Tournefeuille,Crise,23/08/2013,29/08/2013,6,50.8,NA,E2013-276,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_25,Tournefeuille,Crise,31/08/2013,04/09/2013,4,50.8,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_25,Tournefeuille,Crise,07/09/2013,31/10/2013,54,50.8,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_26,Lemboulas,Crise,23/08/2013,29/08/2013,6,108.87,NA,E2013-276,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_26,Lemboulas,Crise,31/08/2013,04/09/2013,4,108.87,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_26,Lemboulas,Crise,07/09/2013,31/10/2013,54,108.87,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_27,Lupte,Alerte renforcée,23/08/2013,29/08/2013,6,55.41,NA,E2013-276,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_27,Lupte,Alerte renforcée,31/08/2013,04/09/2013,4,55.41,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_27,Lupte,Crise,07/09/2013,31/10/2013,54,55.41,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_29,Ouysse,Crise,31/08/2013,04/09/2013,4,251.5,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_29,Ouysse,Crise,07/09/2013,31/10/2013,54,251.5,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_31,Alzou,Crise,31/08/2013,04/09/2013,4,132.2,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_31,Alzou,Crise,07/09/2013,31/10/2013,54,132.2,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_33,Affluents du Lot,Alerte,03/08/2013,08/08/2013,5,1161.89,NA,E2013-251,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_33,Affluents du Lot,Alerte renforcée,23/08/2013,29/08/2013,6,1161.89,NA,E2013-276,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_33,Affluents du Lot,Crise,31/08/2013,04/09/2013,4,1161.89,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_33,Affluents du Lot,Crise,07/09/2013,31/10/2013,54,1161.89,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_4,Mamoul,Alerte renforcée,31/08/2013,31/10/2013,61,54.7,NA,E2013-279,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_5,Sourdoire,Alerte renforcée,23/08/2013,29/08/2013,6,14.44,NA,E2013-276,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_5,Sourdoire,Alerte renforcée,31/08/2013,04/09/2013,4,14.44,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_5,Sourdoire,Alerte renforcée,07/09/2013,31/10/2013,54,14.44,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_6,Séoune,Alerte renforcée,27/07/2013,08/08/2013,12,56.44,NA,E2013-243,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_6,Séoune,Crise,23/08/2013,29/08/2013,6,56.44,NA,E2013-276,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_6,Séoune,Crise,31/08/2013,04/09/2013,4,56.44,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_6,Séoune,Crise,07/09/2013,31/10/2013,54,56.44,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_7,Lère,Crise,23/08/2013,29/08/2013,6,49.3,NA,E2013-276,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_7,Lère,Crise,31/08/2013,04/09/2013,4,49.3,NA,E2013-280,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_7,Lère,Crise,07/09/2013,31/10/2013,54,49.3,NA,E2013-286,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_8,Thèze,Alerte renforcée,23/08/2013,31/10/2013,69,102.19,NA,E2013-274,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_46_9,Vert aval - Masse,Alerte renforcée,07/09/2013,31/10/2013,54,142.19,NA,E2013-285,Occitanie,ADOUR-GARONNE,Lot,Superficielle
+73_81_000004,TESCOU,Alerte renforcée,25/07/2013,07/08/2013,13,171.01,NA,81_2013_Tescou_1,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000004,TESCOU,Alerte renforcée,15/08/2013,21/08/2013,6,171.01,NA,81_2013_Tescou_3,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000004,TESCOU,Alerte renforcée,05/09/2013,11/09/2013,6,171.01,NA,81_2013_Tescou_5,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000004,TESCOU,Crise,08/08/2013,14/08/2013,6,171.01,NA,81_2013_Tescou_2,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000004,TESCOU,Crise,22/08/2013,04/09/2013,13,171.01,NA,81_2013_Tescou_4,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000006,L'AGROS,Alerte,18/07/2013,24/07/2013,6,63.02,NA,81_2013_Agros_1,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000006,L'AGROS,Crise,25/07/2013,27/08/2013,33,63.02,NA,81_2013_Agros_2,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000006,L'AGROS,Crise,28/08/2013,30/09/2013,33,63.02,NA,81_2013_Agros_3,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000007,L'ASSOU (Le Nandou),Alerte,25/07/2013,31/07/2013,6,116.92,NA,81_2013_Assou_1,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000007,L'ASSOU (Le Nandou),Alerte,15/08/2013,21/08/2013,6,116.92,NA,81_2013_Assou_3,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000007,L'ASSOU (Le Nandou),Alerte renforcée,08/08/2013,14/08/2013,6,116.92,NA,81_2013_Assou_2,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000007,L'ASSOU (Le Nandou),Alerte renforcée,30/08/2013,04/09/2013,5,116.92,NA,81_2013_Assou_5,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000007,L'ASSOU (Le Nandou),Crise,22/08/2013,29/08/2013,7,116.92,NA,81_2013_Assou_4,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000007,L'ASSOU (Le Nandou),Crise,05/09/2013,11/09/2013,6,116.92,NA,81_2013_Assou_6,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000009,BAGAS,Alerte renforcée,08/08/2013,30/09/2013,53,98.96,NA,81_2013_Bagas_1,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000011,L'EN GUIBAUD,Alerte renforcée,15/08/2013,21/08/2013,6,47.13,NA,81_2013_EnGuibaud_2,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000011,L'EN GUIBAUD,Alerte renforcée,12/09/2013,30/09/2013,18,47.13,NA,81_2013_EnGuibaud_4,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000011,L'EN GUIBAUD,Crise,08/08/2013,14/08/2013,6,47.13,NA,81_2013_EnGuibaud_1,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000011,L'EN GUIBAUD,Crise,22/08/2013,11/09/2013,20,47.13,NA,81_2013_EnGuibaud_3,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000015,LE BERNAZOBRE,Alerte,20/09/2013,31/10/2013,41,81.95,NA,81_2013_Bernazobre_4,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000015,LE BERNAZOBRE,Alerte renforcée,22/08/2013,04/09/2013,13,81.95,NA,81_2013_Bernazobre_1,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000015,LE BERNAZOBRE,Alerte renforcée,12/09/2013,19/09/2013,7,81.95,NA,81_2013_Bernazobre_3,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_81_000015,LE BERNAZOBRE,Crise,05/09/2013,11/09/2013,6,81.95,NA,81_2013_Bernazobre_2,Occitanie,ADOUR-GARONNE,Tarn,Superficielle
+73_82_12,"""Bassin de la Baye""",Alerte,27/07/2013,09/08/2013,13,30.67,NA,2013-205-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_12,"""Bassin de la Baye""",Alerte renforcée,10/08/2013,16/08/2013,6,30.67,NA,2013-219-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_12,"""Bassin de la Baye""",Alerte renforcée,17/08/2013,23/08/2013,6,30.67,NA,2013-226-0002,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_12,"""Bassin de la Baye""",Alerte renforcée,24/08/2013,06/09/2013,13,30.67,NA,2013-233-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_12,"""Bassin de la Baye""",Alerte renforcée,07/09/2013,13/09/2013,6,30.67,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_12,"""Bassin de la Baye""",Alerte renforcée,14/09/2013,27/09/2013,13,30.67,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_12,"""Bassin de la Baye""",Alerte renforcée,28/09/2013,31/10/2013,33,30.67,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_13,"""Bassin de la Seye""",Alerte,27/07/2013,09/08/2013,13,69.54,NA,2013-205-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_13,"""Bassin de la Seye""",Alerte renforcée,10/08/2013,16/08/2013,6,69.54,NA,2013-219-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_13,"""Bassin de la Seye""",Alerte renforcée,17/08/2013,23/08/2013,6,69.54,NA,2013-226-0002,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_13,"""Bassin de la Seye""",Alerte renforcée,24/08/2013,06/09/2013,13,69.54,NA,2013-233-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_13,"""Bassin de la Seye""",Alerte renforcée,07/09/2013,13/09/2013,6,69.54,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_13,"""Bassin de la Seye""",Alerte renforcée,14/09/2013,27/09/2013,13,69.54,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_13,"""Bassin de la Seye""",Alerte renforcée,28/09/2013,31/10/2013,33,69.54,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_14,"""Bassin de la Bonnette""",Alerte,14/09/2013,27/09/2013,13,152.32,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_14,"""Bassin de la Bonnette""",Alerte,28/09/2013,31/10/2013,33,152.32,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_15,"""Bassin de la Lère non réalimentée""",Alerte,10/08/2013,16/08/2013,6,196.11,NA,2013-219-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_15,"""Bassin de la Lère non réalimentée""",Alerte,17/08/2013,23/08/2013,6,196.11,NA,2013-226-0002,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_15,"""Bassin de la Lère non réalimentée""",Alerte,24/08/2013,06/09/2013,13,196.11,NA,2013-233-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_15,"""Bassin de la Lère non réalimentée""",Alerte,07/09/2013,13/09/2013,6,196.11,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_15,"""Bassin de la Lère non réalimentée""",Alerte,14/09/2013,27/09/2013,13,196.11,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_15,"""Bassin de la Lère non réalimentée""",Alerte renforcée,28/09/2013,31/10/2013,33,196.11,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_17,"""Petits affluents de l'Aveyron""",Alerte,27/07/2013,09/08/2013,13,522.18,NA,2013-205-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_17,"""Petits affluents de l'Aveyron""",Alerte,10/08/2013,16/08/2013,6,522.18,NA,2013-219-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_17,"""Petits affluents de l'Aveyron""",Alerte,17/08/2013,23/08/2013,6,522.18,NA,2013-226-0002,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_17,"""Petits affluents de l'Aveyron""",Alerte,24/08/2013,06/09/2013,13,522.18,NA,2013-233-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_17,"""Petits affluents de l'Aveyron""",Alerte,07/09/2013,13/09/2013,6,522.18,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_17,"""Petits affluents de l'Aveyron""",Alerte renforcée,14/09/2013,27/09/2013,13,522.18,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_17,"""Petits affluents de l'Aveyron""",Alerte renforcée,28/09/2013,31/10/2013,33,522.18,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_21,"""Bassin du Lemboulas amont""",Alerte,17/08/2013,23/08/2013,6,144.08,NA,2013-226-0002,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_21,"""Bassin du Lemboulas amont""",Alerte renforcée,24/08/2013,06/09/2013,13,144.08,NA,2013-233-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_21,"""Bassin du Lemboulas amont""",Alerte renforcée,07/09/2013,13/09/2013,6,144.08,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_21,"""Bassin du Lemboulas amont""",Alerte renforcée,14/09/2013,27/09/2013,13,144.08,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_21,"""Bassin du Lemboulas amont""",Alerte renforcée,28/09/2013,31/10/2013,33,144.08,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_22,"""Bassin du Lemboulas aval""",Alerte,07/09/2013,13/09/2013,6,83.57,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_22,"""Bassin du Lemboulas aval""",Alerte,14/09/2013,27/09/2013,13,83.57,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_22,"""Bassin du Lemboulas aval""",Alerte,28/09/2013,31/10/2013,33,83.57,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_23,"""Bassin Lupte-Lembous""",Alerte,17/08/2013,23/08/2013,6,85.3,NA,2013-226-0002,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_23,"""Bassin Lupte-Lembous""",Alerte renforcée,24/08/2013,06/09/2013,13,85.3,NA,2013-233-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_23,"""Bassin Lupte-Lembous""",Alerte renforcée,07/09/2013,13/09/2013,6,85.3,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_23,"""Bassin Lupte-Lembous""",Alerte renforcée,14/09/2013,27/09/2013,13,85.3,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_23,"""Bassin Lupte-Lembous""",Alerte renforcée,28/09/2013,31/10/2013,33,85.3,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_24,"""Bassin de la Barguelonne amont""",Alerte,17/08/2013,23/08/2013,6,93.97,NA,2013-226-0002,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_24,"""Bassin de la Barguelonne amont""",Alerte renforcée,24/08/2013,06/09/2013,13,93.97,NA,2013-233-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_24,"""Bassin de la Barguelonne amont""",Alerte renforcée,07/09/2013,13/09/2013,6,93.97,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_24,"""Bassin de la Barguelonne amont""",Alerte renforcée,14/09/2013,27/09/2013,13,93.97,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_24,"""Bassin de la Barguelonne amont""",Alerte renforcée,28/09/2013,31/10/2013,33,93.97,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_25,"""Bassin de la Barguelonne aval""",Alerte,24/08/2013,06/09/2013,13,115.62,NA,2013-233-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_25,"""Bassin de la Barguelonne aval""",Alerte,07/09/2013,13/09/2013,6,115.62,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_25,"""Bassin de la Barguelonne aval""",Alerte,14/09/2013,27/09/2013,13,115.62,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_25,"""Bassin de la Barguelonne aval""",Alerte,28/09/2013,31/10/2013,33,115.62,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_26,"""Bassin de la Petite Barguelonne""",Alerte,17/08/2013,23/08/2013,6,74.01,NA,2013-226-0002,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_26,"""Bassin de la Petite Barguelonne""",Alerte renforcée,24/08/2013,06/09/2013,13,74.01,NA,2013-233-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_26,"""Bassin de la Petite Barguelonne""",Alerte renforcée,07/09/2013,13/09/2013,6,74.01,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_26,"""Bassin de la Petite Barguelonne""",Alerte renforcée,14/09/2013,27/09/2013,13,74.01,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_26,"""Bassin de la Petite Barguelonne""",Alerte renforcée,28/09/2013,31/10/2013,33,74.01,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_27,"""Bassin de la Séoune""",Alerte,07/09/2013,13/09/2013,6,246.12,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_27,"""Bassin de la Séoune""",Alerte,14/09/2013,27/09/2013,13,246.12,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_27,"""Bassin de la Séoune""",Alerte,28/09/2013,31/10/2013,33,246.12,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_32,"""Bassin de la Sère""",Alerte,17/08/2013,23/08/2013,6,141.41,NA,2013-226-0002,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_32,"""Bassin de la Sère""",Alerte renforcée,24/08/2013,06/09/2013,13,141.41,NA,2013-233-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_32,"""Bassin de la Sère""",Alerte renforcée,07/09/2013,13/09/2013,6,141.41,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_32,"""Bassin de la Sère""",Alerte renforcée,14/09/2013,27/09/2013,13,141.41,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_32,"""Bassin de la Sère""",Alerte renforcée,28/09/2013,31/10/2013,33,141.41,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_33,"""Bassin du Lambon""",Alerte,28/09/2013,31/10/2013,33,66.1,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_35,"""Petits affluents de la Garonne""",Alerte,07/09/2013,13/09/2013,6,469.44,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_35,"""Petits affluents de la Garonne""",Alerte renforcée,14/09/2013,27/09/2013,13,469.44,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_35,"""Petits affluents de la Garonne""",Alerte renforcée,28/09/2013,31/10/2013,33,469.44,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_43,"""Bassin du Tescou non réalimenté""",Alerte renforcée,27/07/2013,09/08/2013,13,58.86,NA,2013-205-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_43,"""Bassin du Tescou non réalimenté""",Alerte renforcée,14/09/2013,27/09/2013,13,58.86,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_43,"""Bassin du Tescou non réalimenté""",Alerte renforcée,28/09/2013,31/10/2013,33,58.86,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_43,"""Bassin du Tescou non réalimenté""",Crise,10/08/2013,16/08/2013,6,58.86,NA,2013-219-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_43,"""Bassin du Tescou non réalimenté""",Crise,17/08/2013,23/08/2013,6,58.86,NA,2013-226-0002,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_43,"""Bassin du Tescou non réalimenté""",Crise,24/08/2013,06/09/2013,13,58.86,NA,2013-233-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_43,"""Bassin du Tescou non réalimenté""",Crise,07/09/2013,13/09/2013,6,58.86,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_44,"""Petits affluents du Tarn""",Alerte renforcée,27/07/2013,09/08/2013,13,333.28,NA,2013-205-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_44,"""Petits affluents du Tarn""",Alerte renforcée,10/08/2013,16/08/2013,6,333.28,NA,2013-219-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_44,"""Petits affluents du Tarn""",Alerte renforcée,17/08/2013,23/08/2013,6,333.28,NA,2013-226-0002,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_44,"""Petits affluents du Tarn""",Alerte renforcée,24/08/2013,06/09/2013,13,333.28,NA,2013-233-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_44,"""Petits affluents du Tarn""",Alerte renforcée,07/09/2013,13/09/2013,6,333.28,NA,2013-247-0004,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_44,"""Petits affluents du Tarn""",Alerte renforcée,14/09/2013,27/09/2013,13,333.28,NA,2013-254-0009,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+73_82_44,"""Petits affluents du Tarn""",Alerte renforcée,28/09/2013,31/10/2013,33,333.28,NA,2013-268-0003,Occitanie,ADOUR-GARONNE,Tarn-et-Garonne,Superficielle
+75_64_000001,Bassin du Saleys de sa source à Salies,Alerte,20/08/2013,10/09/2013,21,75.76,NA,2013232.0002,Nouvelle-Aquitaine,ADOUR-GARONNE,Pyrénées-Atlantiques,Superficielle
+75_64_000002,Bassin du Saleys de Salies à la confluence avec l'Adour,Alerte renforcée,20/08/2013,10/09/2013,21,37.58,NA,2013232.0001,Nouvelle-Aquitaine,ADOUR-GARONNE,Pyrénées-Atlantiques,Superficielle
+75_64_000003,"Bassin de l'Ousse des Bois et de son affluent, l'Oussère",Alerte renforcée,23/07/2013,10/09/2013,49,43.69,NA,2013204-0005,Nouvelle-Aquitaine,ADOUR-GARONNE,Pyrénées-Atlantiques,Superficielle
+75_64_000004,Bassin du Lausset,Alerte renforcée,20/08/2013,10/09/2013,21,127.76,NA,2013232.0004,Nouvelle-Aquitaine,ADOUR-GARONNE,Pyrénées-Atlantiques,Superficielle
+75_64_000005,Bassin de la Bayse et son affluent la Baysere,Alerte renforcée,23/07/2013,10/09/2013,49,163.4,NA,2013204.0004,Nouvelle-Aquitaine,ADOUR-GARONNE,Pyrénées-Atlantiques,Superficielle
+75_64_000006,Bassin de la Joyeuse,Alerte,20/08/2013,10/09/2013,21,95.65,NA,2013232.0003,Nouvelle-Aquitaine,ADOUR-GARONNE,Pyrénées-Atlantiques,Superficielle
+82_07_000001,bassin de l'Ardèche,Alerte,22/07/2013,22/08/2013,31,2561.38,NA,2013-203-0001,Auvergne-Rhône-Alpes,RHONE-MEDITERRANEE-CORSE,Ardèche,Superficielle
+82_07_000001,bassin de l'Ardèche,Alerte,23/08/2013,03/09/2013,11,2561.38,NA,2013235-0002,Auvergne-Rhône-Alpes,RHONE-MEDITERRANEE-CORSE,Ardèche,Superficielle
+82_07_000001,bassin de l'Ardèche,Alerte,04/09/2013,15/10/2013,41,2561.38,NA,2013-247-0003,Auvergne-Rhône-Alpes,RHONE-MEDITERRANEE-CORSE,Ardèche,Superficielle
+82_07_000002,bassin de la Cance,Vigilance,23/08/2013,03/09/2013,11,338.75,NA,2013235-0002,Auvergne-Rhône-Alpes,RHONE-MEDITERRANEE-CORSE,Ardèche,Superficielle
+82_07_000002,bassin de la Cance,Vigilance,04/09/2013,15/10/2013,41,338.75,NA,2013-247-0003,Auvergne-Rhône-Alpes,RHONE-MEDITERRANEE-CORSE,Ardèche,Superficielle
+82_07_000003,bassin du Doux,Alerte,23/08/2013,03/09/2013,11,948.75,NA,2013235-0002,Auvergne-Rhône-Alpes,RHONE-MEDITERRANEE-CORSE,Ardèche,Superficielle
+82_07_000003,bassin du Doux,Alerte renforcée,04/09/2013,15/10/2013,41,948.75,NA,2013-247-0003,Auvergne-Rhône-Alpes,RHONE-MEDITERRANEE-CORSE,Ardèche,Superficielle
+82_07_000004,bassin de l'Eyrieux,Alerte,22/07/2013,22/08/2013,31,1230.75,NA,2013-203-0001,Auvergne-Rhône-Alpes,RHONE-MEDITERRANEE-CORSE,Ardèche,Superficielle
+82_07_000004,bassin de l'Eyrieux,Alerte,23/08/2013,03/09/2013,11,1230.75,NA,2013235-0002,Auvergne-Rhône-Alpes,RHONE-MEDITERRANEE-CORSE,Ardèche,Superficielle
+82_07_000004,bassin de l'Eyrieux,Alerte renforcée,04/09/2013,15/10/2013,41,1230.75,NA,2013-247-0003,Auvergne-Rhône-Alpes,RHONE-MEDITERRANEE-CORSE,Ardèche,Superficielle
+82_07_000005,bassin de la Loire,Vigilance,23/08/2013,03/09/2013,11,487.72,NA,2013235-0002,Auvergne-Rhône-Alpes,LOIRE-BRETAGNE,Ardèche,Superficielle
+82_07_000005,bassin de la Loire,Vigilance,04/09/2013,15/10/2013,41,487.72,NA,2013-247-0003,Auvergne-Rhône-Alpes,LOIRE-BRETAGNE,Ardèche,Superficielle
+82_42_000001,Pilat et Jarez,Vigilance,16/07/2013,30/09/2013,76,949.39,NA,DT,Auvergne-Rhône-Alpes,RHONE-MEDITERRANEE-CORSE,Loire,Superficielle
+82_42_000002,Plaine et Monts du Forez,Vigilance,16/07/2013,30/09/2013,76,1987.92,NA,DT,Auvergne-Rhône-Alpes,LOIRE-BRETAGNE,Loire,Superficielle
+82_42_000003,Monts du Lyonnais,Vigilance,16/07/2013,30/09/2013,76,623.95,NA,DT,Auvergne-Rhône-Alpes,LOIRE-BRETAGNE,Loire,Superficielle
+82_42_000004,Roannais et Monts du Beaujolais,Vigilance,16/07/2013,30/09/2013,76,1243.15,NA,DT,Auvergne-Rhône-Alpes,LOIRE-BRETAGNE,Loire,Superficielle
+91_48_0001,Allier,Vigilance,28/08/2013,20/10/2013,53,699.19,NA,2013-240-0004,Occitanie,LOIRE-BRETAGNE,Lozère,Superficielle
+91_48_0002,Chassezac  (y compris amont bv Luech),Vigilance,28/08/2013,20/10/2013,53,396.98,NA,2013-240-0004,Occitanie,RHONE-MEDITERRANEE-CORSE,Lozère,Superficielle
+91_48_0003,Colagne,Alerte,28/08/2013,20/10/2013,53,470.18,NA,2013-240-0004,Occitanie,ADOUR-GARONNE,Lozère,Superficielle
+91_48_0004,Gardons cévenols (partie dpt48),Vigilance,28/08/2013,20/10/2013,53,356.18,NA,2013-240-0004,Occitanie,RHONE-MEDITERRANEE-CORSE,Lozère,Superficielle
+91_48_0005,Truyère,Alerte,28/08/2013,20/10/2013,53,1020.95,NA,2013-240-0004,Occitanie,ADOUR-GARONNE,Lozère,Superficielle
+91_48_0006,Lot,Vigilance,28/08/2013,20/10/2013,53,744.66,NA,2013-240-0004,Occitanie,ADOUR-GARONNE,Lozère,Superficielle
+91_48_0010,Axe Colagne réalimenté,Alerte,28/08/2013,20/10/2013,53,4.28,NA,2013-240-0004,Occitanie,ADOUR-GARONNE,Lozère,Superficielle
