@@ -1,0 +1,41 @@
+---
+jupyter:
+  jupytext:
+    formats: 'ipynb,qmd'
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.14.1
+  kernelspec:
+    display_name: Python 3 (ipykernel)
+    language: python
+    name: python3
+---
+
+```{python}
+import pandas as pd 
+import geopandas as gpd
+```
+
+```{python}
+zones = gpd.read_file('SHP_20220806.geojson')
+```
+
+```{python}
+metro = zones[  ~zones['codeDep'].isin([
+    '971',
+    '972',
+    '973',
+    '974',
+    '976',
+    '97500',
+    '98'
+])]
+
+metro
+```
+
+```{python}
+metro.plot()
+```
