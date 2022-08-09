@@ -1,12 +1,12 @@
 ---
 jupyter:
   jupytext:
-    formats: 'ipynb,qmd'
+    formats: 'ipynb,qmd:quarto'
     text_representation:
       extension: .qmd
       format_name: quarto
       format_version: '1.0'
-      jupytext_version: 1.14.1
+      jupytext_version: 1.13.8
   kernelspec:
     display_name: Python 3 (ipykernel)
     language: python
@@ -19,7 +19,11 @@ import geopandas as gpd
 ```
 
 ```{python}
-zones = gpd.read_file('SHP_20220806.geojson')
+zones = gpd.read_file('propluvia/SHP_20220806.geojson')
+```
+
+```{python}
+zones.codeZA.astype('category')
 ```
 
 ```{python}
@@ -31,11 +35,119 @@ metro = zones[  ~zones['codeDep'].isin([
     '976',
     '97500',
     '98'
-])]
+])] #.set_index('codeZA')
 
 metro
 ```
 
 ```{python}
-metro.plot()
+df = (pd.read_csv('propluvia.csv')
+    .assign(
+        debut = lambda d: pd.to_datetime(d.Date_debut, errors='coerce'),
+        fin = lambda d: pd.to_datetime(d.Date_fin, errors='coerce'),
+        type = lambda d: d.Type_de_zone.astype('category').replace({ 'Souterraine': 'SOU', 'Superficielle': 'SUP' })
+    )
+    #.sort_values('fin')
+)
+
+df.sample(5)
+```
+
+```{python}
+df.Code_ZA.astype('category')
+```
+
+```{python}
+df.Type_de_zone.astype('category').replace({ 'Souterraine': 'SOU', 'Type_de_zone': 'SUP' })
+```
+
+```{python}
+df.shape
+```
+
+```{python}
+df.dtypes
+```
+
+```{python}
+df[pd.to_datetime(df.Date_debut, errors='coerce').isna()]
+```
+
+```{python}
+years = ((df
+    [['debut', 'fin']]
+    .assign(
+        debut= lambda d: d.debut.dt.year,
+        fin  = lambda d: d.fin.dt.year
+    )
+    .reset_index()
+    .pivot_table(
+        index  = 'index',
+        columns= 'debut',
+        values = 'debut',
+        aggfunc= 'count'
+    )
+    .fillna(0)
+) + (df
+    [['debut', 'fin']]
+    .assign(
+        debut= lambda d: d.debut.dt.year,
+        fin  = lambda d: d.fin.dt.year
+    )
+    .reset_index()
+    .pivot_table(
+        index  = 'index',
+        columns= 'fin',
+        values = 'fin',
+        aggfunc= 'count'
+    )
+    .fillna(0)
+)).drop(2023.0, axis=1)
+```
+
+```{python}
+df_long = (df
+    [['Code_ZA', 'type', 'NIVEAU', 'Surface']]
+    .join(years)
+    .melt(
+        id_vars    = ['Code_ZA', 'type', 'NIVEAU', 'Surface'],
+        var_name   = 'annee',
+        value_vars = range(2010, 2023)
+    )
+    .assign(
+        annee= lambda d: d.annee.astype(int)
+    )
+)
+
+df_long
+```
+
+```{python}
+gdf = (df_long
+    [~df_long.NIVEAU.isna()]
+    .set_index(['Code_ZA', 'type'])
+    .merge(
+        metro.set_index(['codeZA', 'type']),
+        left_index=True,
+        right_index=True,
+        how='left',
+        # left_on='Code_ZA',
+        # right_on='codeZA',
+        #validate='m:1'
+    )
+)
+
+gdf = gpd.GeoDataFrame(gdf[~gdf.geometry.isna()])
+
+gdf.shape
+```
+
+```{python}
+gdf[ (gdf.annee == 2010) * (gdf == 'Vigilance') ]
+```
+
+```{python}
+maps = df_geo.dissolve(by='NIVEAU')
+
+maps
 ```
