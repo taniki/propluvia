@@ -6,7 +6,7 @@
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.14.1
+#       jupytext_version: 1.13.8
 #   kernelspec:
 #     display_name: Python 3 (ipykernel)
 #     language: python
@@ -17,7 +17,7 @@
 import pandas as pd
 
 # %%
-years = range(2010, 2022)
+years = range(2010, 2023)
 
 years
 
@@ -35,3 +35,5 @@ df.dtypes
 
 # %%
 df.to_csv('propluvia.csv', index=False)
+
+# %%
